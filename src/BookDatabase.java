@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class BookList {
+public class BookDatabase {
 	
 	
 	/*IMPORTANT*********
@@ -13,7 +13,7 @@ public class BookList {
 	
 	private TreeSet<Book> myBooks;
 	
-	public BookList(){
+	public BookDatabase(){
 		myBooks = new TreeSet<Book>();
 	}
 	public boolean addBook(Book book){

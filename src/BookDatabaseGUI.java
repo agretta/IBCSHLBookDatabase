@@ -9,13 +9,13 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.util.*;
-public class BookListGUI{
+public class BookDatabaseGUI{
 	private JFrame frame;
-	private BookList library;
+	private BookDatabase library;
 	
 	
-	public BookListGUI(int width, int height){
-		library = new BookList();
+	public BookDatabaseGUI(int width, int height){
+		library = new BookDatabase();
 		library.load("Trial.txt");
 		frame = new JFrame("Book Catalogue");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -272,7 +272,7 @@ public class BookListGUI{
 
 		SwingUtilities.invokeLater(new Runnable() {
 		      public void run() {
-		        BookListGUI b = new BookListGUI(1100,900);
+		        BookDatabaseGUI b = new BookDatabaseGUI(1100,900);
 		      }
 		    });
 		  }

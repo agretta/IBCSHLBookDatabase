@@ -15,7 +15,7 @@ public class BookListGUIGenre {
 	public static void main(String args[]){
 		SwingUtilities.invokeLater(new Runnable() {
 		      public void run() {
-		        BookListGUI b = new BookListGUI(1200,900);
+		        BookDatabaseGUI b = new BookDatabaseGUI(1200,900);
 		      }
 		    });
 		  }
