@@ -9,14 +9,17 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.util.*;
+
 public class BookDatabaseGUI{
 	private JFrame frame;
 	private BookDatabase library;
 	
 	
 	public BookDatabaseGUI(int width, int height){
+		
+		//General Constraints
 		library = new BookDatabase();
-		library.load("Trial.txt");
+		System.out.println(library.load("BookList.txt"));
 		frame = new JFrame("Book Catalogue");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setPreferredSize(new Dimension(width, height));
@@ -31,6 +34,7 @@ public class BookDatabaseGUI{
 		JMenuItem save  = new JMenuItem("Save");
 		JMenuItem saveAs = new JMenuItem("Save As...");
 		
+		//MenuBar Adding
 		loadBar.add(loadFrom);
 		loadBar.add(reload);
 		saveBar.add(save);
@@ -38,6 +42,7 @@ public class BookDatabaseGUI{
 		bar.add(loadBar);
 		bar.add(saveBar);
 		frame.setJMenuBar(bar);
+		
 		//MenuBar Listeners
 		
 		
@@ -141,7 +146,7 @@ public class BookDatabaseGUI{
 		bigBox.add(leftVBox);
 		frame.add(bigBox);
 		
-		
+		/*
 		//Listeners
 		authorSearchBar.addKeyListener(new KeyListener(){
 
@@ -221,7 +226,11 @@ public class BookDatabaseGUI{
 			public void keyTyped(KeyEvent arg0) {
 				// TODO Auto-generated method stub
 			}});
-
+		/*
+		loadFrom.addActionListener(new ActionListener(){
+			
+			*/
+			
 
 		
 		searchButton.addActionListener(new ActionListener(){
@@ -252,11 +261,24 @@ public class BookDatabaseGUI{
 						shownBooks.add(book);
 				}*/
 				String s = "";
+				String s2 = "";
+
 				for(Book b : library.bookListSearchedFor(authorSearch, titleSearch, generSearch, readingLevel)){
 					if(!b.getRead())
 						s +=  "  \"" + b.getTitle() + "\" \t Author:  " + b.getAuthor() + "\n";
+						s2 +=  "\"" + b.getTitle() + "\"\nAuthor:  " + b.getAuthor() + "\nGenre: " +b.getGenre() + "\nSeries: " +b.getSeries() + "\nSeries Number: " +b.getSeriesNumber() + "\nCurrent Location: " +b.getLoc() + "\nAR Points: " +b.getAR() +  "\nReading Level: "+ b.getReadingLevel()+ "\nCopyright: "+ b.getCopyright() + "\n";
+
+				}
+				if(! (s.lastIndexOf("\n") >= 100)){
+					
+					bookInfo.setText(s2);
 				}
 				leftVBoxTextArea.setText(s);
+				
+				
+				//Book Info
+				
+				
 				}});
 		
 		frame.getContentPane().setBackground(new Color(200,250,200));
@@ -266,7 +288,7 @@ public class BookDatabaseGUI{
 	}
 	
 	
-	
+		
 	
 	public static void main(String args[]){
 

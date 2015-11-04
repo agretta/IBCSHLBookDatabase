@@ -1,0 +1,707 @@
+Adams	:;-	Watership Down	:;-		:;-		:;-		:;-	AUS	:;-	6.2	:;-	25	:;-	UG	:;-	1972
+Alexander 	:;-	The Book of Three	:;-	Fantasy	:;-	The Chronicles of Prydain 	:;-	1	:;-	HOME	:;-	5.3	:;-	7	:;-	MG	:;-	1964
+Alexander 	:;-	The Black Cauldron	:;-	Fantasy	:;-	The Chronicles of Prydain 	:;-	2	:;-	HOME	:;-	5.2	:;-	7	:;-	MG	:;-	1965
+Alexander 	:;-	The Castle of Llyr	:;-	Fantasy	:;-	The Chronicles of Prydain 	:;-	3	:;-	HOME	:;-	5.4	:;-	7	:;-	MG	:;-	1966
+Alexander 	:;-	Taran Wanderer	:;-	Fantasy	:;-	The Chronicles of Prydain 	:;-	4	:;-	HOME	:;-	6.2	:;-	9	:;-	MG	:;-	1967
+Alexander 	:;-	The High King	:;-	Fantasy	:;-	The Chronicles of Prydain 	:;-	5	:;-	HOME	:;-	6.1	:;-	11	:;-	MG	:;-	1968
+Alexander 	:;-	The Foundling and Other Tales from Prydain	:;-	Fantasy	:;-	The Chronicles of Prydain 	:;-	6	:;-	AUS	:;-	5.9	:;-	3	:;-	MG	:;-	1970
+Alexander 	:;-	The Arkadians 	:;-		:;-		:;-		:;-	AUS	:;-	5.4	:;-	8	:;-	MG	:;-	1995
+Alexander 	:;-	Time Cat: The Remarkable Journeys of Jason and Gareth	:;-	Fantasy	:;-		:;-		:;-	HOME	:;-	4.7	:;-	5	:;-	MG	:;-	1963
+Anderson	:;-	Heirs of the Force	:;-	SciFi	:;-	Star Wars: Young Jedi Knights	:;-	1	:;-		:;-	6.7	:;-	7	:;-	MG	:;-	1995
+Appleton	:;-	Into the Abyss	:;-	SciFi	:;-	Tom Swift, Young Inventor	:;-	1	:;-	HOME	:;-	4.8	:;-	4	:;-	MG	:;-	2006
+Appleton	:;-	The Robot Olympics	:;-	SciFi	:;-	Tom Swift, Young Inventor	:;-	2	:;-	HOME	:;-	5.4	:;-	4	:;-	MG	:;-	2006
+Appleton	:;-	The Space Hotel	:;-	SciFi	:;-	Tom Swift, Young Inventor	:;-	3	:;-	HOME	:;-	5.7	:;-	5	:;-	MG	:;-	2006
+Appleton	:;-	Rocket Racers	:;-	SciFi	:;-	Tom Swift, Young Inventor	:;-	4	:;-	HOME	:;-	5.4	:;-	4	:;-	MG	:;-	2007
+Appleton	:;-	On top of the World	:;-	SciFi	:;-	Tom Swift, Young Inventor	:;-	5	:;-	HOME	:;-	4.8	:;-	4	:;-	MG	:;-	2007
+Appleton	:;-	Under the Radar	:;-	SciFi	:;-	Tom Swift, Young Inventor	:;-	6	:;-	HOME	:;-	4.9	:;-	4	:;-	MG	:;-	2007
+Atwater	:;-	Mr. Popper's Penguins	:;-		:;-		:;-		:;-	HOME	:;-	5.6	:;-	3	:;-	MG	:;-	1938
+Babbit	:;-	Tuck Everlasting	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+Baccalario	:;-	The Door to Time	:;-		:;-	Ulysses Moore	:;-	1	:;-	HOME	:;-	4.2	:;-	5	:;-	MG	:;-	2006
+Baccalario	:;-	The Long-Lost Map	:;-		:;-	Ulysses Moore	:;-	2	:;-	HOME	:;-	4.4	:;-	6	:;-	MG	:;-	2007
+Baccalario	:;-	The House of Mirrors	:;-		:;-	Ulysses Moore	:;-	3	:;-	HOME	:;-	4.3	:;-	6	:;-	MG	:;-	2007
+Baccalario	:;-	The Isle of Masks	:;-		:;-	Ulysses Moore	:;-	4	:;-	HOME	:;-	4.4	:;-	5	:;-	MG	:;-	2008
+Banks 	:;-	The Indian in the Cupboard	:;-	Adventure	:;-	Indian in the Cupboard 	:;-	1	:;-	HOME	:;-	4.6	:;-	6	:;-	MG	:;-	1980
+Banks 	:;-	The Return of the Indian	:;-	Adventure	:;-	Indian in the Cupboard 	:;-	2	:;-		:;-	4.6	:;-	5	:;-	MG	:;-	1985
+Banks 	:;-	The Secret of the Indian	:;-	Adventure	:;-	Indian in the Cupboard 	:;-	3	:;-		:;-	5.2	:;-	5	:;-	MG	:;-	1989
+Banks 	:;-	The Key to the Indian	:;-	Adventure	:;-	Indian in the Cupboard 	:;-	4	:;-		:;-	4.8	:;-	8	:;-	MG	:;-	1998
+Banks 	:;-	The Mystery of the Cupboard	:;-	Adventure	:;-	Indian in the Cupboard 	:;-	5	:;-		:;-	4.9	:;-	7	:;-	MG	:;-	1992
+Barron	:;-	The Book of Magic	:;-		:;-	Companion to Avalon/Merlin	:;-	 	:;-		:;-	8	:;-	6	:;-	MG	:;-	2011
+Barron	:;-	Child of the Dark Prophecy	:;-		:;-	Great Tree of Avalon	:;-	1	:;-		:;-	8.2	:;-	6	:;-	MG	:;-	2004
+Barron	:;-	Shadows on the Stars	:;-		:;-	Great Tree of Avalon	:;-	2	:;-		:;-	5.8	:;-	17	:;-	MG	:;-	2005
+Barron	:;-	The Eternal Flame	:;-		:;-	Great Tree of Avalon	:;-	3	:;-		:;-	6.8	:;-	16	:;-	MG	:;-	2007
+Barron	:;-	Merlin's Dragon	:;-		:;-	Merlin's Dragon	:;-	1	:;-		:;-	5.9	:;-	11	:;-	MG	:;-	2008
+Barron	:;-	Doomraga's Revenge	:;-		:;-	Merlin's Dragon	:;-	2	:;-		:;-	6.1	:;-	9	:;-	MG	:;-	2009
+Barron	:;-	Ultimate Magic	:;-		:;-	Merlin's Dragon	:;-	3	:;-		:;-	6.1	:;-	8	:;-	MG	:;-	2010
+Barron	:;-	The Lost Years of Merlin	:;-		:;-	The Lost Years of Merlin 	:;-	1	:;-		:;-	5.1	:;-	12	:;-	MG	:;-	1996
+Barron	:;-	The Seven Songs of Merlin	:;-		:;-	The Lost Years of Merlin 	:;-	2	:;-		:;-	5.2	:;-	12	:;-	MG	:;-	1997
+Barron	:;-	The Fires of Merlin	:;-		:;-	The Lost Years of Merlin 	:;-	3	:;-		:;-	5	:;-	9	:;-	MG	:;-	1998
+Barron	:;-	The Mirror Of Merlin	:;-		:;-	The Lost Years of Merlin 	:;-	4	:;-		:;-	5.4	:;-	9	:;-	MG	:;-	1999
+Barron	:;-	The Wings of Merlin	:;-		:;-	The Lost Years of Merlin 	:;-	5	:;-		:;-	5.8	:;-	14	:;-	MG	:;-	2000
+Barrow	:;-	The Mutiny on the Bounty	:;-		:;-		:;-		:;-		:;-	11	:;-	20	:;-	MG	:;-	
+Barry	:;-	Escape from the Carnivale	:;-		:;-	Never Land Adventures	:;-	1	:;-	HOME	:;-	5	:;-	3	:;-	MG	:;-	
+Barry	:;-	Cave of the Dark Wind	:;-		:;-	Never Land Adventures	:;-	2	:;-	HOME	:;-	4.4	:;-	3	:;-	MG	:;-	
+Barry	:;-	Blood Tide	:;-		:;-	Never Land Adventures	:;-	3	:;-	HOME	:;-	5.4	:;-	3	:;-	MG	:;-	2009
+Barry	:;-	Peter and the Starcatchers	:;-		:;-	Starcatchers	:;-	1	:;-	HOME	:;-	5.2	:;-	13	:;-	MG	:;-	
+Barry	:;-	Peter and the Shadow Thieves	:;-		:;-	Starcatchers	:;-	2	:;-	HOME	:;-	5.3	:;-	16	:;-	MG	:;-	
+Barry	:;-	Peter and the Secret of Rundoon	:;-		:;-	Starcatchers	:;-	3	:;-	HOME	:;-	5.6	:;-	14	:;-	MG	:;-	
+Barry	:;-	Peter and the Sword of Mercy	:;-		:;-	Starcatchers	:;-	4	:;-	HOME	:;-	5.2	:;-	15	:;-	MG	:;-	2009*
+Baum	:;-	Dorothy and the Wizard of Oz	:;-		:;-	Oz	:;-		:;-		:;-	7.4	:;-	7	:;-	MG	:;-	1908
+Baum	:;-	Ozma of Oz	:;-		:;-	Oz	:;-		:;-		:;-	7.4	:;-	7	:;-	MG	:;-	1907
+Baum	:;-	Rinkitink of Oz	:;-		:;-	Oz	:;-		:;-		:;-	8	:;-	9	:;-	MG	:;-	1916
+Baum	:;-	The Emerald City of Oz	:;-		:;-	Oz	:;-		:;-		:;-	7.5	:;-	9	:;-	MG	:;-	1910
+Baum	:;-	The Lost Princess of Oz	:;-		:;-	Oz	:;-		:;-		:;-	7.6	:;-	8	:;-	MG	:;-	1917
+Baum	:;-	The Magic of Oz	:;-		:;-	Oz	:;-		:;-		:;-	7.3	:;-	7	:;-	MG	:;-	1919
+Baum	:;-	The Marvelous Land of Oz	:;-		:;-	Oz	:;-		:;-		:;-	8	:;-	7	:;-	MG	:;-	1904
+Baum	:;-	The Patchwork Girl of Oz	:;-		:;-	Oz	:;-		:;-		:;-	7.2	:;-	9	:;-	MG	:;-	1913
+Baum	:;-	The Road to Oz	:;-		:;-	Oz	:;-		:;-		:;-	7.2	:;-	7	:;-	MG	:;-	1909
+Baum	:;-	The Scarecrow of Oz	:;-		:;-	Oz	:;-		:;-		:;-	7.4	:;-	8	:;-	MG	:;-	1915
+Baum	:;-	The Tin Woodman of Oz	:;-		:;-	Oz	:;-		:;-		:;-	7.6	:;-	8	:;-	MG	:;-	1918
+Baum	:;-	The Wonderful Wizard of Oz	:;-		:;-	Oz	:;-		:;-		:;-	7	:;-	7	:;-	MG	:;-	1900
+Baum	:;-	Tik-Tok of Oz	:;-		:;-	Oz	:;-		:;-		:;-	7.9	:;-	8	:;-	MG	:;-	1914
+Bell	:;-	Nick of Time: An Adventure Through Time	:;-		:;-	Nick McIver	:;-	1	:;-	HOME	:;-	6.3	:;-	19	:;-	MG	:;-	2008
+Bell	:;-	Time Pirate	:;-		:;-	Nick McIver	:;-	2	:;-	HOME	:;-		:;-		:;-		:;-	
+Bendick	:;-	Archimedes and the Door of Science	:;-	Non-Fiction	:;-		:;-		:;-	HOME	:;-	6.9	:;-	3	:;-	MG	:;-	1962
+Bendick	:;-	Galen and the Gateway to Medicine	:;-	Non-Fiction	:;-		:;-		:;-		:;-	6.9	:;-	3	:;-	MG	:;-	2002
+Berkeley	:;-	The Palace of Laughter	:;-		:;-	Wednesday Tales	:;-	1	:;-	AUS	:;-	6.4	:;-	14	:;-	MG	:;-	2006
+Berkeley	:;-	The Tiger's Egg	:;-		:;-	Wednesday Tales	:;-	2	:;-		:;-	6.5	:;-	13	:;-	MG	:;-	2007
+Berkeley	:;-	The Lightning Key	:;-		:;-	Wednesday Tales	:;-	3	:;-		:;-	6.5	:;-	13	:;-	MG	:;-	2009
+Berne	:;-	Christoher Columbus: Voyage that changed the world	:;-	Biography	:;-		:;-		:;-	J 921 CO	:;-		:;-		:;-		:;-	
+Berne	:;-	Sacagawea: crossign the continent with Lewis & Clakr	:;-	Biography	:;-		:;-		:;-	J 921 SA	:;-		:;-		:;-		:;-	
+Bertrand	:;-	The Mad Scientist Club	:;-		:;-		:;-		:;-	HOME	:;-		:;-	0	:;-		:;-	1965
+Bisson	:;-	The fight to survive	:;-	SciFi	:;-	Star Wars: Boba Fett	:;-		:;-		:;-	4.2	:;-	4	:;-		:;-	
+Blumberg	:;-	Commodore Perry in the land of the Shogun	:;-		:;-		:;-		:;-	AUS	:;-	7.9	:;-	3	:;-		:;-	
+Bober	:;-	Abigail Adams: Witness to Revolution	:;-	NF	:;-		:;-		:;-		:;-	8.4	:;-	14	:;-	UG	:;-	
+Borzendowski	:;-	Marie Curie:mother of modern physics	:;-	Biography	:;-		:;-		:;-	J921 Cu	:;-		:;-		:;-		:;-	
+Boston	:;-	The Children of Green Knowe	:;-		:;-	Green Knowe Chronicles	:;-	1	:;-	HOME	:;-	5.3	:;-	6	:;-	MG	:;-	1954
+Boston	:;-	Treasure of Green Knowe 	:;-		:;-	Green Knowe Chronicles	:;-	2	:;-		:;-	5.8	:;-	7	:;-	MG	:;-	1958
+Boston	:;-	The River at Green Knowe	:;-		:;-	Green Knowe Chronicles	:;-	3	:;-		:;-	5.9	:;-	5	:;-	MG	:;-	1959
+Boston	:;-	A Stranger at Green Knowe	:;-		:;-	Green Knowe Chronicles	:;-	4	:;-		:;-	6.4	:;-	7	:;-	MG	:;-	1961
+Boston	:;-	An Enemy at Greene Knowe	:;-		:;-	Green Knowe Chronicles	:;-	5	:;-		:;-	5.8	:;-	6	:;-	MG	:;-	1964
+Boston	:;-	The Stones at Green Knowe	:;-		:;-	Green Knowe Chronicles	:;-	6	:;-		:;-	6	:;-	4	:;-	MG	:;-	1976
+Brooks	:;-	Freddy and the Ignoramus	:;-		:;-	Freddy	:;-	8	:;-	AUS	:;-		:;-	0	:;-	MG	:;-	1941
+Brooks	:;-	Freddy and the Baseball Team From Mars	:;-		:;-	Freddy	:;-		:;-	AUS	:;-		:;-	0	:;-	MG	:;-	1955
+Brooks	:;-	Freddy's Cousin Weedly	:;-		:;-	Freddy 	:;-	7	:;-	AUS	:;-	5.2	:;-	7	:;-	MG	:;-	1940
+Brooks	:;-	Freddy and the perilous Adventure	:;-		:;-	Freddy 	:;-	9	:;-	AUS	:;-	5.4	:;-	6	:;-	MG	:;-	1942
+Brooks	:;-	Freddy the Pied Piper	:;-		:;-	Freddy 	:;-	13	:;-	AUS	:;-		:;-	0	:;-	MG	:;-	1946
+Brooks	:;-	Freddy the Magician	:;-		:;-	Freddy 	:;-	14	:;-	AUS	:;-	5.6	:;-	7	:;-	MG	:;-	1947
+Brooks	:;-	Freddy Goes Camping	:;-		:;-	Freddy 	:;-	15	:;-	AUS	:;-		:;-	0	:;-	MG	:;-	1948
+Brooks	:;-	Freddy the Cowboy	:;-		:;-	Freddy 	:;-	16	:;-	AUS	:;-		:;-	0	:;-	MG	:;-	1950
+Brooks	:;-	Freddy Rides Again	:;-		:;-	Freddy 	:;-	18	:;-	AUS	:;-		:;-	0	:;-	MG	:;-	1951
+Brooks	:;-	Freddy and the Spaceship	:;-		:;-	Freddy 	:;-	20	:;-	AUS	:;-	5.6	:;-	7	:;-	MG	:;-	1953
+Brooks	:;-	Freddy and the Dragon	:;-		:;-	Freddy 	:;-	26	:;-	AUS	:;-		:;-	0	:;-	MG	:;-	1958
+Brooks	:;-	Freddy & Mr. Camphor	:;-		:;-	Freddy 	:;-		:;-		:;-		:;-		:;-	MG	:;-	
+Brooks	:;-	Freddy & The Bean Town News	:;-		:;-	Freddy 	:;-		:;-		:;-		:;-		:;-	MG	:;-	
+Brooks	:;-	Freddy & The Popinjay	:;-		:;-	Freddy 	:;-		:;-		:;-		:;-		:;-	MG	:;-	
+Brooks	:;-	Freddy and Simon the Dictator	:;-		:;-	Freddy 	:;-		:;-	AUS	:;-		:;-	0	:;-	MG	:;-	1956
+Brooks	:;-	Freddy and the Flying Saucer Plans	:;-		:;-	Freddy 	:;-		:;-		:;-		:;-		:;-	MG	:;-	
+Brooks	:;-	Freddy Goes to Florida	:;-		:;-	Freddy 	:;-		:;-		:;-		:;-		:;-	MG	:;-	
+Brooks	:;-	Freddy Goes to the North Pole	:;-		:;-	Freddy 	:;-		:;-		:;-		:;-		:;-	MG	:;-	
+Brooks	:;-	Freddy Plays Football	:;-		:;-	Freddy 	:;-		:;-		:;-		:;-		:;-	MG	:;-	
+Brooks	:;-	Freddy the Detective	:;-		:;-	Freddy 	:;-		:;-		:;-		:;-		:;-	MG	:;-	
+Brooks	:;-	Freddy the Pilot	:;-		:;-	Freddy 	:;-		:;-		:;-		:;-		:;-	MG	:;-	
+Brooks	:;-	Freddy the Politician	:;-		:;-	Freddy 	:;-		:;-		:;-		:;-		:;-	MG	:;-	
+Brooks	:;-	The Clockwork Twin	:;-		:;-	Freddy 	:;-		:;-		:;-		:;-		:;-	MG	:;-	
+Brooks	:;-	The Collected Poems of Freddy the Pig	:;-		:;-	Freddy 	:;-		:;-		:;-		:;-		:;-	MG	:;-	
+Brooks	:;-	The Story of Freginald	:;-		:;-	Freddy 	:;-		:;-		:;-		:;-		:;-	MG	:;-	
+Brooks	:;-	The Phantom Menace	:;-	SciFi	:;-	Star Wars	:;-		:;-		:;-	6.7	:;-	14	:;-	UG	:;-	
+Bruchac	:;-	Code Talker: A Novel About the Navajo Marines of WWII	:;-	Historical	:;-		:;-		:;-	AUS	:;-	6.4	:;-	9	:;-	MG	:;-	2005
+Bruchac	:;-	Sacajawea	:;-	Historical	:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+Buckley	:;-	The Council of Mirrors	:;-	Fantasy	:;-	Sisters Grimm	:;-	9	:;-	AUS	:;-	4.9	:;-	10	:;-	MG	:;-	2012
+Buckley	:;-	The Fairy-Tale Detectives	:;-	Fantasy	:;-	Sisters Grimm 	:;-	1	:;-	AUS	:;-	5.2	:;-	9	:;-	MG	:;-	2005
+Buckley	:;-	Unusual Suspects	:;-	Fantasy	:;-	Sisters Grimm 	:;-	2	:;-	AUS	:;-	5.4	:;-	9	:;-	MG	:;-	2005
+Buckley	:;-	The Problem Child	:;-	Fantasy	:;-	Sisters Grimm 	:;-	3	:;-	AUS	:;-	5	:;-	9	:;-	MG	:;-	2006
+Buckley	:;-	Once Upon a Crime	:;-	Fantasy	:;-	Sisters Grimm 	:;-	4	:;-	AUS	:;-	4.8	:;-	8	:;-	MG	:;-	2008
+Buckley	:;-	Magic and other Misdemeanors	:;-	Fantasy	:;-	Sisters Grimm 	:;-	5	:;-	AUS	:;-	4.9	:;-	8	:;-	MG	:;-	2008
+Buckley	:;-	Tales from the hood	:;-	Fantasy	:;-	Sisters Grimm 	:;-	6	:;-	AUS	:;-	4.8	:;-	8	:;-	MG	:;-	2008
+Buckley	:;-	The Everafter War	:;-	Fantasy	:;-	Sisters Grimm 	:;-	7	:;-	AUS	:;-	4.9	:;-	9	:;-	MG	:;-	
+Cameron	:;-	The Wonderful Flight to the Mushroom Planet	:;-		:;-	Mushroom planet	:;-	1	:;-	HOME	:;-	6.3	:;-	6	:;-	MG	:;-	1954
+Cameron	:;-	Stowaway to the Mushroom Planet	:;-		:;-	Mushroom planet	:;-	2	:;-	HOME	:;-		:;-		:;-		:;-	1956
+Card	:;-	Ender's Game	:;-		:;-	Ender's Game	:;-	1	:;-	HOME	:;-		:;-		:;-		:;-	
+Card	:;-	Pathfinder	:;-		:;-	Pathfinder	:;-	1	:;-	HOME	:;-		:;-		:;-		:;-	
+Card	:;-	Ruins	:;-		:;-	Pathfinder	:;-	2	:;-	HOME	:;-		:;-		:;-		:;-	
+Card	:;-	Visitors	:;-		:;-	Pathfinder	:;-	3	:;-	HOME	:;-		:;-		:;-		:;-	
+Carman	:;-	Atherton: The House of Power	:;-		:;-	Atherton 	:;-	1	:;-		:;-	6.1	:;-	12	:;-	MG	:;-	2007
+Carman	:;-	Rivers of Fire	:;-		:;-	Atherton 	:;-	2	:;-		:;-	6.2	:;-	11	:;-	MG	:;-	2008
+Carman	:;-	The Dark Planet	:;-		:;-	Atherton 	:;-	3	:;-		:;-	5.7	:;-	13	:;-	MG	:;-	2009
+Carson	:;-	Gifted Hands: Ben Carson	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+Christie	:;-	Murder on the Orient Express	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+Christopher	:;-	The White Mountains	:;-		:;-	Tripods	:;-	1	:;-	HOME	:;-	6.2	:;-	7	:;-	MG	:;-	1967
+Christopher	:;-	The City of Gold	:;-		:;-	Tripods	:;-	2	:;-	HOME	:;-	6.5	:;-	8	:;-	MG	:;-	1967
+Christopher	:;-	The Pool of Fire	:;-		:;-	Tripods	:;-	3	:;-	HOME	:;-	7	:;-	8	:;-	MG	:;-	1968
+Christopher	:;-	When the Tripods Came	:;-		:;-	Tripods	:;-	4	:;-	HOME	:;-	5.2	:;-	5	:;-	MG	:;-	1988
+Clarke	:;-	2001: A Space Odyssey	:;-	SciFi	:;-		:;-	1	:;-		:;-	9	:;-	12	:;-	UG	:;-	1951
+Clarke	:;-	2010: Odyssey Two	:;-	SciFi	:;-		:;-	2	:;-		:;-	7.8	:;-	13	:;-	UG	:;-	1981
+Clarke	:;-	2061: Odyssey Three	:;-	SciFi	:;-		:;-	3	:;-	 	:;-	8.3	:;-	11	:;-	UG	:;-	1987
+Clarke	:;-	3001: The Final Odyssey	:;-	SciFi	:;-		:;-	4	:;-		:;-	8.3	:;-	9	:;-	UG	:;-	1997
+Coffey	:;-	Boys of Winter	:;-		:;-	1984 Olympic Hockey Team	:;-		:;-		:;-		:;-		:;-		:;-	
+Colfer	:;-	Artemis Fowl	:;-		:;-	Artemis Fowl 	:;-	1	:;-	home	:;-	5	:;-	9	:;-	MG	:;-	2001
+Colfer	:;-	The Artic Incident	:;-		:;-	Artemis Fowl 	:;-	2	:;-	home	:;-	5	:;-	9	:;-	MG	:;-	2002
+Colfer	:;-	The Eternity Code	:;-		:;-	Artemis Fowl 	:;-	3	:;-	home	:;-	5	:;-	10	:;-	MG	:;-	2003
+Colfer	:;-	The Lost Colony	:;-		:;-	Artemis Fowl 	:;-	4	:;-		:;-	5.3	:;-	13	:;-	MG	:;-	2005
+Colfer	:;-	The Opal Deception	:;-		:;-	Artemis Fowl 	:;-	5	:;-		:;-	5.7	:;-	12	:;-	MG	:;-	2006
+Colfer	:;-	The Time Paradox	:;-		:;-	Artemis Fowl 	:;-	6	:;-	home	:;-	5.6	:;-	13	:;-	MG	:;-	2008
+Colfer	:;-	The Atlantis Complex	:;-		:;-	Artemis Fowl 	:;-	7	:;-		:;-	6.2	:;-	12	:;-	MG	:;-	2010
+Colfer	:;-	The Last Guardian	:;-		:;-	Artemis Fowl 	:;-	8	:;-		:;-	6.6	:;-	12	:;-	MG	:;-	2012
+Colum	:;-	The Children of Odin	:;-	Mythology	:;-	Greek Myths	:;-		:;-		:;-	6.1	:;-	10	:;-	MG	:;-	1920
+Colum	:;-	The Golden Fleece & the Heroes Who Lived Before Achilles	:;-	Mythology	:;-	Greek Myths	:;-		:;-	HOME	:;-	7.3	:;-	13	:;-	UG	:;-	1921
+Colum 	:;-	The Children of Homer	:;-	Mythology	:;-	Greek Myths	:;-		:;-		:;-	6.9	:;-	9	:;-	MG	:;-	1918
+Conrad	:;-	The Secret Agent	:;-		:;-		:;-		:;-		:;-	9.4	:;-	17	:;-	UG	:;-	1907
+Coolidge	:;-	Caesar's Gallic War	:;-		:;-		:;-		:;-		:;-	7.9	:;-	12	:;-	MG	:;-	1991
+Cooper	:;-	Over Sea, Under Stone	:;-		:;-	Dark is Rising	:;-	1	:;-	HOME	:;-		:;-		:;-		:;-	
+Cooper	:;-	The Dark is Rising	:;-		:;-	Dark is Rising	:;-	2	:;-	HOME	:;-	6.2	:;-	13	:;-	MG	:;-	1984
+Cooper	:;-	Greenwitch	:;-		:;-	Dark is Rising	:;-	3	:;-	HOME	:;-		:;-		:;-		:;-	
+Cooper	:;-	The Grey King	:;-		:;-	Dark is Rising	:;-	4	:;-	HOME	:;-		:;-		:;-		:;-	
+Cooper	:;-	Silver on the Tree	:;-		:;-	Dark is Rising	:;-	5	:;-	HOME	:;-		:;-		:;-		:;-	
+Coville	:;-	The Dragon of Doom	:;-		:;-	Moongobble and Me	:;-	1	:;-		:;-	3.3	:;-	1	:;-	LG	:;-	2003
+Coville	:;-	The Weeping Werewolf	:;-		:;-	Moongobble and Me	:;-	2	:;-		:;-		:;-		:;-		:;-	2004
+Coville	:;-	The Evil Elves	:;-		:;-	Moongobble and Me	:;-	3	:;-		:;-	3.8	:;-	1	:;-	LG	:;-	2004
+Coville	:;-	The Mischief Monster	:;-		:;-	Moongobble and Me	:;-	4	:;-		:;-		:;-		:;-		:;-	2007
+Coville	:;-	The Naughty Nork	:;-		:;-	Moongobble and Me	:;-	5	:;-		:;-	3.9	:;-	2	:;-	LG	:;-	
+Dahl	:;-	Charlie and the Chocolate Factory	:;-		:;-		:;-		:;-		:;-	4.8	:;-	5	:;-	MG	:;-	1964
+Dahl	:;-	Matilda	:;-		:;-		:;-		:;-		:;-	5	:;-	6	:;-	MG	:;-	
+Dashner	:;-	The Journal of Curious Letters	:;-	Fantasy	:;-	13th Reality 	:;-	1	:;-	AUS	:;-	6	:;-	15	:;-	MG	:;-	2008
+Dashner	:;-	The Hunt for Dark Infinity	:;-	Fantasy	:;-	13th Reality 	:;-	2	:;-	AUS	:;-		:;-	0	:;-	MG	:;-	2009
+Dashner	:;-	A Door in the Woods	:;-	Fantasy	:;-	The Jimmy Fincher Saga	:;-		:;-	n/a	:;-		:;-	0	:;-	MG	:;-	
+Dashner	:;-	A Gift of Ice	:;-	Fantasy	:;-	The Jimmy Fincher Saga	:;-		:;-	n/a	:;-		:;-	0	:;-	MG	:;-	
+Dashner	:;-	The Tower of Air	:;-	Fantasy	:;-	The Jimmy Fincher Saga	:;-		:;-	n/a	:;-		:;-	0	:;-	MG	:;-	
+Davis	:;-	Raising Dragons	:;-		:;-	Dragons in Our Midst 	:;-	1	:;-		:;-	5.4	:;-	16	:;-	MG 	:;-	
+Davis	:;-	The Candlestone	:;-		:;-	Dragons in Our Midst 	:;-	2	:;-		:;-	5.5	:;-	18	:;-	MG	:;-	
+Davis	:;-	Circle of Seven	:;-		:;-	Dragons in Our Midst 	:;-	3	:;-		:;-	5.2	:;-	18	:;-	MG	:;-	
+Davis	:;-	Tears of a Dragon	:;-		:;-	Dragons in Our Midst 	:;-	4	:;-		:;-	5.2	:;-	16	:;-	MG	:;-	
+De Angeli	:;-	The Door in the Wall	:;-		:;-		:;-		:;-		:;-	6.2	:;-	4	:;-	MG	:;-	
+Dekker	:;-	Chosen	:;-		:;-	Lost Books 	:;-	1	:;-		:;-	4.8	:;-	8	:;-		:;-	
+Dekker	:;-	Infidel	:;-		:;-	Lost Books 	:;-	2	:;-		:;-	4.9	:;-	7	:;-		:;-	
+Dekker	:;-	Renegade	:;-		:;-	Lost Books 	:;-	3	:;-		:;-	4.5	:;-	8	:;-		:;-	
+Dekker	:;-	Chaos	:;-		:;-	Lost Books 	:;-	4	:;-		:;-	4.6	:;-	7	:;-		:;-	
+DiCamillo	:;-	The Tale of Despereaux	:;-		:;-		:;-		:;-		:;-	4.7	:;-	5	:;-	MG	:;-	
+D'Lacey	:;-	The Fire Within	:;-		:;-	The Last Dragon Chronicles 	:;-	1	:;-	AUS	:;-	4.1	:;-	7	:;-		:;-	2001
+D'Lacey	:;-	Icefire	:;-		:;-	The Last Dragon Chronicles 	:;-	2	:;-	AUS	:;-	4.4	:;-	10	:;-		:;-	2003
+D'Lacey	:;-	Fire Star	:;-		:;-	The Last Dragon Chronicles 	:;-	3	:;-	AUS	:;-	4.8	:;-	12	:;-		:;-	2005
+D'Lacey	:;-	The Fire Eternal	:;-		:;-	The Last Dragon Chronicles 	:;-	4	:;-	AUS	:;-	4.8	:;-	12	:;-		:;-	2007
+D'Lacey	:;-	Dark Fire (UK release 7/2009)	:;-		:;-	The Last Dragon Chronicles 	:;-	5	:;-		:;-		:;-		:;-		:;-	2009
+Du Bois	:;-	The Twenty-one Balloons	:;-		:;-		:;-		:;-	Home	:;-	6.8	:;-	6	:;-	MG	:;-	
+Duane	:;-	So You Want to be a Wizard	:;-		:;-	So You Want to be a Wizard	:;-		:;-		:;-		:;-		:;-		:;-	
+Dumas	:;-	The Count of Monte Cristo (Abridged)	:;-		:;-		:;-		:;-		:;-	8.8	:;-	34	:;-	UG	:;-	
+Dumas	:;-	The Three Musketeers	:;-		:;-		:;-		:;-		:;-	11.3	:;-	42	:;-	UG	:;-	
+DuPrau	:;-	City of Ember	:;-		:;-	Ember	:;-	1	:;-		:;-	5	:;-	9	:;-	MG	:;-	2003
+DuPrau	:;-	The People of Sparks	:;-		:;-	Ember	:;-	2	:;-		:;-	4.9	:;-	11	:;-	MG	:;-	2005
+DuPrau	:;-	Prophet of Yonwood	:;-		:;-	Ember	:;-	3	:;-		:;-	4.9	:;-	9	:;-	MG	:;-	
+DuPrau	:;-	Diamond of Darkhold	:;-		:;-	Ember	:;-	4	:;-		:;-	5.2	:;-	10	:;-	MG	:;-	
+Eager 	:;-	Half Magic	:;-		:;-		:;-		:;-	Home	:;-	5	:;-	5	:;-	MG	:;-	1954
+Eager 	:;-	Knight's Castle	:;-		:;-		:;-		:;-	Home	:;-	5.3	:;-	6	:;-	MG	:;-	1956
+Eager 	:;-	Magic By The Lake	:;-		:;-		:;-		:;-		:;-	5	:;-	5	:;-	MG	:;-	1957
+Eager 	:;-	Seven-Day Magic	:;-		:;-		:;-		:;-	Home	:;-	5	:;-	5	:;-	MG	:;-	1958
+Eager 	:;-	Time Garden	:;-		:;-		:;-		:;-		:;-	5	:;-	5	:;-	MG	:;-	1958
+Eddings	:;-	Guardians of the West	:;-		:;-		:;-	1	:;-		:;-		:;-		:;-		:;-	
+Eddings	:;-	Pawn of Prophecy	:;-		:;-		:;-	1	:;-		:;-		:;-		:;-		:;-	
+Edwards	:;-	Dragon: Hound of Honor	:;-		:;-		:;-		:;-		:;-	5.8	:;-	5	:;-	MG	:;-	
+Edwards	:;-	Mandy	:;-		:;-		:;-		:;-		:;-	4.8	:;-	7	:;-	MG	:;-	
+Edwards	:;-	The Last of the Really Great Whangdoodles	:;-		:;-		:;-		:;-		:;-	4.4	:;-	8	:;-		:;-	
+Ende	:;-	The Neverending Story	:;-		:;-		:;-		:;-		:;-	5.9	:;-	18	:;-	UG	:;-	
+Enright	:;-	The Saturdays	:;-		:;-	Melendy Quartet	:;-	1	:;-		:;-	5.5	:;-	6	:;-	MG	:;-	1941
+Enright	:;-	The Four-Story Mistake	:;-		:;-	Melendy Quartet	:;-	2	:;-		:;-	5.7	:;-	7	:;-	MG	:;-	1942
+Enright	:;-	Then There Were Five	:;-		:;-	Melendy Quartet	:;-	3	:;-		:;-	5.3	:;-	9	:;-	MG	:;-	1944
+Enright	:;-	Spiderweb for Two:  A Melendy Maze	:;-		:;-	Melendy Quartet	:;-	4	:;-		:;-	5.8	:;-	7	:;-	MG	:;-	1951
+Enright	:;-	Gone Away Lake	:;-		:;-		:;-		:;-		:;-	5.3	:;-	7	:;-	MG	:;-	1957
+Enright	:;-	Thimble Summer	:;-		:;-		:;-		:;-		:;-	5.7	:;-	5	:;-	MG	:;-	1938
+Estes	:;-	The Moffats	:;-		:;-	The Moffats 	:;-	1	:;-		:;-	5.2	:;-	6	:;-		:;-	1941
+Estes	:;-	The Moffat Museum	:;-		:;-	The Moffats 	:;-	2	:;-		:;-	5	:;-	8	:;-		:;-	1983
+Estes	:;-	Ginger Pye	:;-		:;-		:;-		:;-		:;-	6	:;-	9	:;-	MG	:;-	1951
+Evans	:;-	Prisoner of Cell 25	:;-		:;-	Michael Vey	:;-	1	:;-	Home	:;-	3.5	:;-	11	:;-	MG+	:;-	2011
+Evans	:;-	Rise of the Elgen	:;-		:;-	Michael Vey	:;-	2	:;-	Home	:;-	4	:;-	12	:;-	MG+	:;-	2012
+Evans	:;-	Battle of the Ampere	:;-		:;-	Michael Vey	:;-	3	:;-		:;-	3.7	:;-	11	:;-	MG+	:;-	2013
+Evans	:;-	Hunt for Jade Dragon	:;-		:;-	Michael Vey	:;-	4	:;-		:;-	4	:;-	11	:;-	MG+	:;-	2014
+Evans	:;-	Storm of Lightning	:;-		:;-	Michael Vey	:;-	5	:;-		:;-		:;-		:;-		:;-	2015
+Farmer	:;-	Sea of Trolls	:;-		:;-		:;-	1	:;-	Home	:;-	4.7	:;-	16	:;-	MG	:;-	2004
+Farmer	:;-	The Land of the Silver Apples	:;-		:;-		:;-	2	:;-		:;-	5	:;-	17	:;-		:;-	2007
+Flanagan	:;-	The Ruins of Gorlan	:;-		:;-	Ranger's Apprentice	:;-	1	:;-	Home	:;-	7	:;-	12	:;-	MG	:;-	2004
+Flanagan	:;-	The Burning Bridge	:;-		:;-	Ranger's Apprentice	:;-	2	:;-	Home	:;-	6.3	:;-	12	:;-	MG	:;-	2005
+Flanagan	:;-	The Icebound Land	:;-		:;-	Ranger's Apprentice	:;-	3	:;-	Home	:;-	6.8	:;-	13	:;-	MG	:;-	2005
+Flanagan	:;-	The Battle for Skandia	:;-		:;-	Ranger's Apprentice	:;-	4	:;-	Home	:;-	7	:;-	12	:;-	MG	:;-	2006
+Flanagan	:;-	Erak's Ransom	:;-		:;-	Ranger's Apprentice	:;-	5	:;-	Home	:;-	6.1	:;-	17	:;-	MG	:;-	2007
+Flanagan	:;-	Sorcerer in the North	:;-		:;-	Ranger's Apprentice	:;-	6	:;-	Home	:;-	6.1	:;-	13	:;-	MG	:;-	2006
+Flanagan	:;-	The Siege of Macindaw	:;-		:;-	Ranger's Apprentice	:;-	7	:;-	Home	:;-	6.2	:;-	13	:;-	MG	:;-	2007
+Flanagan	:;-	The Kings of Clonmel	:;-		:;-	Ranger's Apprentice	:;-	8	:;-	Home	:;-	6.1	:;-	16	:;-	MG	:;-	2008
+Flanagan	:;-	Halt's Peril	:;-		:;-	Ranger's Apprentice	:;-	9	:;-		:;-	5.8	:;-	17	:;-	MG	:;-	2009
+Flanagan	:;-	The Emperor of Nihon-Ja	:;-		:;-	Ranger's Apprentice	:;-	10	:;-		:;-	6.2	:;-	19	:;-	MG	:;-	2011
+Flanagan	:;-	The Lost Stories	:;-		:;-	Ranger's Apprentice	:;-	11	:;-		:;-	6	:;-	18	:;-	MG	:;-	2012
+Flanagan	:;-	The Royal Ranger	:;-		:;-	Ranger's Apprentice	:;-	12	:;-		:;-		:;-		:;-	MG	:;-	2013
+Flanagan	:;-	By the Great Horn Spoon	:;-		:;-		:;-		:;-		:;-	5.1	:;-	6	:;-	MG	:;-	1963
+Fletcher	:;-	Stoneheart	:;-	Adventure	:;-	Stoneheart	:;-	1	:;-		:;-	5.3	:;-	14	:;-	MG	:;-	2006
+Fletcher	:;-	Ironhand	:;-	Adventure	:;-	Stoneheart	:;-	2	:;-		:;-	6.6	:;-	15	:;-	MG	:;-	2008
+Fletcher	:;-	Silvertongue	:;-	Adventure	:;-	Stoneheart	:;-	3	:;-		:;-	6.3	:;-	16	:;-	MG	:;-	2009
+Forbes	:;-	Johnny Tremain	:;-	Historical	:;-		:;-		:;-		:;-	5.9	:;-	13	:;-	MG	:;-	1943
+Forester	:;-	The African Queen	:;-		:;-		:;-		:;-		:;-	7.9	:;-	11	:;-	UG	:;-	1935
+Forman	:;-	Slathbog's Gold	:;-	Fantasy	:;-	Adventurers Wanted	:;-	1	:;-	n/a	:;-	5.7	:;-	15	:;-	MG	:;-	2009
+Foster	:;-	Abraham Lincoln's World	:;-	Historical	:;-		:;-		:;-		:;-	7.8	:;-	17	:;-	UG	:;-	1944
+Foster	:;-	Augustus Caesar's World	:;-	Historical	:;-		:;-		:;-	HOME	:;-	n/a	:;-		:;-		:;-	
+Foster	:;-	George Washington's World	:;-	Historical	:;-		:;-		:;-		:;-	8	:;-	17	:;-	UG	:;-	1941
+Funke	:;-	Inkheart	:;-	Fantasy	:;-	Ink Triology	:;-	1	:;-		:;-	5.4	:;-	23	:;-	MG	:;-	2003
+Funke	:;-	Inkspell	:;-	Fantasy	:;-	Ink Triology	:;-	2	:;-		:;-	5.6	:;-	29	:;-	MG	:;-	2005
+Funke	:;-	Inkdeath	:;-	Fantasy	:;-	Ink Triology	:;-	3	:;-		:;-	5.4	:;-	29	:;-	MG	:;-	2008
+Funke	:;-	Dragon Rider	:;-	Fantasy	:;-		:;-		:;-		:;-	4.9	:;-	16	:;-	MG	:;-	1997
+Garner	:;-	The Moon of Gomrath	:;-		:;-	Tale of Alderley	:;-	1	:;-	AUS	:;-	5.6	:;-	7	:;-	MG	:;-	1963
+Garner	:;-	The Weirdstone of Brisingamen	:;-		:;-	Tale of Alderley	:;-	2	:;-	AUS	:;-	6.3	:;-	10	:;-	MG	:;-	
+Gates	:;-	Lord of the Sky: Zeus	:;-	Mythology	:;-	Greek Myths	:;-		:;-	AUS	:;-	6.8	:;-	4	:;-	MG	:;-	
+Gates	:;-	The Gold God: Apollo	:;-	Mythology	:;-	Greek Myths	:;-		:;-	AUS	:;-	na	:;-	0	:;-		:;-	
+Gates	:;-	The Warrior Goddess: Athena	:;-	Mythology	:;-	Greek Myths	:;-		:;-	AUS	:;-	na	:;-	0	:;-		:;-	
+Gladwell	:;-	Outliers 	:;-	Non-Fiction	:;-		:;-		:;-	Home	:;-		:;-		:;-		:;-	
+Glut	:;-	The Empire Strikes Back	:;-	SciFi	:;-	Star Wars	:;-		:;-		:;-	6.9	:;-	9	:;-	MG	:;-	
+Grahame	:;-	The Wind in the Willows	:;-		:;-		:;-		:;-		:;-	8.4	:;-	11	:;-	MG	:;-	1908
+Gray	:;-	Adam of the Road	:;-	Historical	:;-		:;-		:;-		:;-	6.5	:;-	9	:;-	MG	:;-	1942
+Green	:;-	Tales of Ancient Egypt	:;-	Historical	:;-		:;-		:;-	HOME	:;-	7.2	:;-	8	:;-	UG	:;-	1967
+Haddix	:;-	Among the Hidden	:;-		:;-		:;-		:;-	AUS	:;-	4.8	:;-	5	:;-	MG	:;-	1998
+Heinlein	:;-	Between Planets	:;-	SciFi	:;-		:;-		:;-		:;-		:;-		:;-		:;-	1951
+Heinlein	:;-	Citizen of the Galaxy	:;-	SciFi	:;-		:;-		:;-		:;-		:;-		:;-		:;-	1957
+Heinlein	:;-	Farmer in the Sky	:;-	SciFi	:;-		:;-		:;-		:;-		:;-		:;-		:;-	1953
+Heinlein	:;-	Glory Road	:;-	SciFi	:;-		:;-		:;-		:;-	6	:;-	13	:;-	UG	:;-	1963
+Heinlein	:;-	Have Space Suit Will Travel	:;-	SciFi	:;-		:;-		:;-		:;-	5.9	:;-	12	:;-	MG	:;-	1958
+Heinlein	:;-	Red Planet	:;-	SciFi	:;-		:;-		:;-		:;-		:;-		:;-		:;-	1949
+Heinlein	:;-	Space Cadet	:;-	SciFi	:;-		:;-		:;-	Nook 	:;-		:;-	0	:;-		:;-	1948
+Heinlein	:;-	Starman Jones	:;-	SciFi	:;-		:;-		:;-		:;-		:;-		:;-		:;-	1953
+Heinlein	:;-	Starship Troopers	:;-	SciFi	:;-		:;-		:;-		:;-	6.9	:;-	14	:;-	UG	:;-	1959
+Heinlein	:;-	The Rolling Stones	:;-	SciFi	:;-		:;-		:;-	AUS	:;-		:;-	0	:;-		:;-	1952
+Heinlein	:;-	The Star Beast	:;-	SciFi	:;-		:;-		:;-		:;-		:;-		:;-		:;-	1953
+Heinlein	:;-	Tunnel in the Sky	:;-	SciFi	:;-		:;-		:;-	AUS	:;-		:;-	0	:;-		:;-	1955
+Helgerson	:;-	Horns and Wrinkles	:;-		:;-		:;-		:;-	AUS	:;-	5.1	:;-	8	:;-	MG	:;-	
+Hesse	:;-	Siddhartha	:;-		:;-		:;-		:;-		:;-	7.1	:;-	6	:;-	UG	:;-	
+Hickam	:;-	Rocket Boys	:;-	Non-Fiction	:;-		:;-		:;-		:;-	5.9	:;-	21	:;-	UG	:;-	
+Hicks	:;-	Alvin Fernald, Foreign Trader	:;-		:;-	Alvin Fernald	:;-		:;-		:;-	6	:;-	6	:;-	MG	:;-	1966
+Hicks	:;-	Alvin's Secret Code	:;-		:;-	Alvin Fernald	:;-		:;-	Home	:;-	5.1	:;-	5	:;-	MG	:;-	1963
+Hicks	:;-	The Marvelous Inventions of Alvin Fernald	:;-		:;-	Alvin Fernald	:;-		:;-	Home	:;-		:;-	0	:;-		:;-	1960
+Hill	:;-	The Cry of the Icemark	:;-		:;-	Icemark  Chronicles 	:;-	1	:;-		:;-	8	:;-	24	:;-	MG	:;-	2005
+Hill	:;-	Blade of Fire	:;-		:;-	Icemark  Chronicles 	:;-	2	:;-		:;-	7.7	:;-	31	:;-	MG	:;-	2007
+Hill	:;-	Last Battle of the Icemark	:;-		:;-	Icemark  Chronicles 	:;-	3	:;-		:;-	8.1	:;-	25	:;-	MG	:;-	2009
+Hopping	:;-	Chief Joseph: the voice of peace	:;-	Biography	:;-		:;-		:;-	J321 JO	:;-		:;-		:;-		:;-	
+Hugo	:;-	Les Miserables	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+Hunter	:;-	The Quest Begins	:;-	Fantasy	:;-	Seekers	:;-	1	:;-		:;-	5.4	:;-	12	:;-	MG	:;-	2008
+Hunter	:;-	Great Bear Lake	:;-	Fantasy	:;-	Seekers	:;-	2	:;-		:;-	5.2	:;-	11	:;-	MG	:;-	2009
+Hunter	:;-	Smoke Mountain	:;-	Fantasy	:;-	Seekers	:;-	3	:;-		:;-	4.8	:;-	9	:;-	MG	:;-	2010
+Hunter	:;-	Cats of the Clans	:;-	Fantasy	:;-	Warriors	:;-		:;-		:;-	6.8	:;-	2	:;-	MG	:;-	2008
+Hunter	:;-	Code of the Clans	:;-	Fantasy	:;-	Warriors	:;-		:;-		:;-	5.4	:;-	6	:;-	MG	:;-	2009
+Hunter	:;-	Secrets of the Clans	:;-	Fantasy	:;-	Warriors	:;-		:;-		:;-		:;-		:;-		:;-	
+Hunter	:;-	Into the Wild	:;-	Fantasy	:;-	Warriors 	:;-	1	:;-		:;-	5.6	:;-	10	:;-	MG	:;-	2003
+Hunter	:;-	Fire and Ice	:;-	Fantasy	:;-	Warriors 	:;-	2	:;-		:;-	5.4	:;-	11	:;-	MG	:;-	2003
+Hunter	:;-	Forest of Secrets	:;-	Fantasy	:;-	Warriors 	:;-	3	:;-		:;-	5.8	:;-	11	:;-	MG	:;-	2003
+Hunter	:;-	Rising Storm	:;-	Fantasy	:;-	Warriors 	:;-	4	:;-		:;-	6.1	:;-	11	:;-	MG	:;-	2004
+Hunter	:;-	A Dangerous Path	:;-	Fantasy	:;-	Warriors 	:;-	5	:;-		:;-	5.9	:;-	12	:;-	MG	:;-	2004
+Hunter	:;-	The Darkest Hour	:;-	Fantasy	:;-	Warriors 	:;-	6	:;-		:;-	6.3	:;-	12	:;-	MG	:;-	2004
+Hunter	:;-	Warriors Field Guide	:;-	Fantasy	:;-	Warriors 	:;-		:;-		:;-	5.5	:;-	5	:;-	MG	:;-	2007
+Hunter	:;-	The Fourth Apprentice	:;-	Fantasy	:;-	Warriors: Omen of the Stars	:;-	1	:;-		:;-	5.4	:;-	11	:;-	MG	:;-	
+Hunter	:;-	Fading Echoes	:;-	Fantasy	:;-	Warriors: Omen of the Stars	:;-	2	:;-		:;-	4.4	:;-	9	:;-	MG	:;-	
+Hunter	:;-	Night Whispers	:;-	Fantasy	:;-	Warriors: Omen of the Stars	:;-	3	:;-		:;-	4	:;-	9	:;-	MG	:;-	
+Hunter	:;-	Sign of the Moon	:;-	Fantasy	:;-	Warriors: Omen of the Stars	:;-	4	:;-		:;-	5.2	:;-	11	:;-	MG	:;-	
+Hunter	:;-	The Forgotten Warrior	:;-	Fantasy	:;-	Warriors: Omen of the Stars	:;-	5	:;-		:;-	5.2	:;-	11	:;-	MG	:;-	
+Hunter	:;-	The Last Hope	:;-	Fantasy	:;-	Warriors: Omen of the Stars	:;-	6	:;-		:;-	4	:;-	10	:;-	MG	:;-	
+Hunter	:;-	The Sight	:;-	Fantasy	:;-	Warriors: Power of Three	:;-	1	:;-		:;-	4.9	:;-	12	:;-	MG	:;-	2007
+Hunter	:;-	Dark River	:;-	Fantasy	:;-	Warriors: Power of Three	:;-	2	:;-		:;-	4.3	:;-	10	:;-	MG	:;-	2008
+Hunter	:;-	Outcast	:;-	Fantasy	:;-	Warriors: Power of Three	:;-	3	:;-		:;-	5.4	:;-	11	:;-	MG	:;-	2008
+Hunter	:;-	Eclipse	:;-	Fantasy	:;-	Warriors: Power of Three	:;-	4	:;-		:;-	4.3	:;-	10	:;-	MG	:;-	2008
+Hunter	:;-	Long Shadows	:;-	Fantasy	:;-	Warriors: Power of Three	:;-	5	:;-		:;-	5.3	:;-	11	:;-	MG	:;-	2009
+Hunter	:;-	Sunrise	:;-	Fantasy	:;-	Warriors: Power of Three	:;-	6	:;-		:;-	5.2	:;-	11	:;-	MG	:;-	2009
+Hunter	:;-	Bluestar's Prophecy	:;-	Fantasy	:;-	Warriors: Super Edition	:;-		:;-		:;-		:;-		:;-		:;-	2009
+Hunter	:;-	Firestar's Quest	:;-	Fantasy	:;-	Warriors: Super Edition	:;-		:;-		:;-	5.5	:;-	19	:;-	MG	:;-	2007
+Hunter	:;-	Midnight	:;-	Fantasy	:;-	Warriors: The New Prophecy	:;-	1	:;-		:;-	6	:;-	12	:;-	MG	:;-	2005
+Hunter	:;-	Moonrise	:;-	Fantasy	:;-	Warriors: The New Prophecy	:;-	2	:;-		:;-	5.8	:;-	11	:;-	MG	:;-	2005
+Hunter	:;-	Dawn	:;-	Fantasy	:;-	Warriors: The New Prophecy	:;-	3	:;-		:;-	5.1	:;-	11	:;-	MG	:;-	2006
+Hunter	:;-	Starlight	:;-	Fantasy	:;-	Warriors: The New Prophecy	:;-	4	:;-		:;-	5.9	:;-	12	:;-	MG	:;-	2006
+Hunter	:;-	Twilight	:;-	Fantasy	:;-	Warriors: The New Prophecy	:;-	5	:;-		:;-	5.5	:;-	11	:;-	MG	:;-	2006
+Hunter	:;-	Sunset	:;-	Fantasy	:;-	Warriors: The New Prophecy	:;-	6	:;-		:;-	5.5	:;-	11	:;-	MG	:;-	2007
+Huxley	:;-	Brave New World	:;-		:;-		:;-		:;-		:;-	7.5	:;-	11	:;-	UG	:;-	1932
+Ibbotson	:;-	Island of the Aunts	:;-		:;-		:;-		:;-	Home	:;-	5.9	:;-	9	:;-		:;-	2000
+Ibbotson	:;-	The Secret of Platform 13	:;-		:;-		:;-		:;-	Home	:;-	5.8	:;-	7	:;-		:;-	1994
+Irving	:;-	Rip Van Winkle And Other Stories	:;-		:;-		:;-		:;-		:;-	11.1	:;-	9	:;-	MG	:;-	1819*
+Jacques	:;-	Castaways of the Flying Dutchman	:;-		:;-	Castaways of the Flying Dutchman	:;-	1	:;-		:;-	5.4	:;-	12	:;-	MG	:;-	
+Jacques	:;-	Redwall	:;-	Fantasy	:;-	Redwall	:;-	9	:;-		:;-	5.6	:;-	16	:;-	MG	:;-	1986
+Jacques	:;-	Mossflower	:;-	Fantasy	:;-	Redwall	:;-	3	:;-		:;-	5.1	:;-	17	:;-	MG	:;-	1988
+Jacques	:;-	Mattimeo	:;-	Fantasy	:;-	Redwall	:;-	10	:;-		:;-	5.2	:;-	18	:;-	MG	:;-	1989
+Jacques	:;-	Mariel of Redwall	:;-	Fantasy	:;-	Redwall	:;-	6	:;-		:;-	5.7	:;-	16	:;-	MG	:;-	1991
+Jacques	:;-	Salamandastron	:;-	Fantasy	:;-	Redwall	:;-	8	:;-		:;-	5.7	:;-	16	:;-	MG	:;-	1992
+Jacques	:;-	Martin the Warrior	:;-	Fantasy	:;-	Redwall	:;-	2	:;-		:;-	5.5	:;-	14	:;-	MG	:;-	1993
+Jacques	:;-	The Bellmaker	:;-	Fantasy	:;-	Redwall	:;-	7	:;-		:;-	5.7	:;-	14	:;-	MG	:;-	1994
+Jacques	:;-	Outcast of Redwall	:;-	Fantasy	:;-	Redwall	:;-	5	:;-		:;-	6.3	:;-	15	:;-	MG	:;-	1995
+Jacques	:;-	The Pearls of Lutra	:;-	Fantasy	:;-	Redwall	:;-	11	:;-		:;-	6.1	:;-	18	:;-	MG	:;-	1996
+Jacques	:;-	The Long Patrol	:;-	Fantasy	:;-	Redwall	:;-	12	:;-		:;-	6	:;-	15	:;-	MG	:;-	1997
+Jacques	:;-	Marlfox	:;-	Fantasy	:;-	Redwall	:;-	13	:;-		:;-	5.7	:;-	17	:;-	MG	:;-	1998
+Jacques	:;-	The Legend of Luke	:;-	Fantasy	:;-	Redwall	:;-	4	:;-		:;-	5.7	:;-	16	:;-	MG	:;-	1999
+Jacques	:;-	Lord Brocktree	:;-	Fantasy	:;-	Redwall	:;-	1	:;-		:;-	5.5	:;-	16	:;-	MG	:;-	2000
+Jacques	:;-	The Taggerung	:;-	Fantasy	:;-	Redwall	:;-	14	:;-		:;-	5.2	:;-	19	:;-	MG	:;-	2001
+Jacques	:;-	Triss	:;-	Fantasy	:;-	Redwall	:;-	15	:;-		:;-	5.8	:;-	17	:;-	MG	:;-	2002
+Jacques	:;-	Loamhedge	:;-	Fantasy	:;-	Redwall	:;-	16	:;-		:;-	5.3	:;-	19	:;-	MG	:;-	2003
+Jacques	:;-	Rakkety Tam	:;-	Fantasy	:;-	Redwall	:;-	17	:;-		:;-	5.5	:;-	16	:;-	MG	:;-	2004
+Jacques	:;-	High Rhulain	:;-	Fantasy	:;-	Redwall	:;-	18	:;-		:;-	5.5	:;-	15	:;-	MG	:;-	2005
+Jacques	:;-	Eulalia!	:;-	Fantasy	:;-	Redwall	:;-	19	:;-		:;-	6	:;-	18	:;-	MG	:;-	2007
+Jacques	:;-	Doomwyte	:;-	Fantasy	:;-	Redwall	:;-	20	:;-		:;-	5.7	:;-	16	:;-	MG	:;-	2008
+Jacques	:;-	The Sable Queen	:;-	Fantasy	:;-	Redwall	:;-	21	:;-		:;-		:;-		:;-		:;-	2009
+Jacques	:;-	The Rogue Crew	:;-	Fantasy	:;-	Redwall	:;-	22	:;-	AUS	:;-	5.1	:;-	17	:;-	MG	:;-	2011
+Juster	:;-	The Phantom Tollbooth	:;-		:;-		:;-		:;-		:;-	6.7	:;-	7	:;-	MG	:;-	1961
+Kahn	:;-	Return of the Jedi	:;-	SciFi	:;-	Star Wars	:;-	3	:;-		:;-	 	:;-	0	:;-	MG	:;-	
+Kelly	:;-	The Trumpeter of Krakow	:;-	Historical	:;-		:;-		:;-		:;-	7.1	:;-	10	:;-	UG	:;-	1928
+kendall	:;-	The Gammage Cup	:;-		:;-		:;-		:;-	n/a	:;-	5.9	:;-	8	:;-	MG	:;-	1959
+Kerr	:;-	The Grave Robbers of Genghis Kahn	:;-		:;-	Children of the Lamp	:;-	7	:;-	Home	:;-		:;-		:;-		:;-	
+Kerr	:;-	The Akhenaten Adventure	:;-		:;-	Children of the Lamp 	:;-	1	:;-	Home	:;-	5.7	:;-	13	:;-	MG	:;-	2004
+Kerr	:;-	The Blue Djinn of Babylon	:;-		:;-	Children of the Lamp 	:;-	2	:;-	Home	:;-	5.9	:;-	14	:;-	MG	:;-	2006
+Kerr	:;-	The Cobra King of Kathmandu	:;-		:;-	Children of the Lamp 	:;-	3	:;-	Home	:;-	5.8	:;-	14	:;-	MG	:;-	2006
+Kerr	:;-	The Day of the Djinn Warriors	:;-		:;-	Children of the Lamp 	:;-	4	:;-	Home	:;-	5.6	:;-	14	:;-	MG 	:;-	2007
+Kerr	:;-	The Eye of the Forest	:;-		:;-	Children of the Lamp 	:;-	5	:;-	Home	:;-	5.4	:;-	15	:;-	MG	:;-	2009
+Kingsley	:;-	The Dragon's Eye	:;-		:;-	Erec Rex 	:;-	1	:;-	AUS	:;-	3.9	:;-	13	:;-	MG	:;-	2006
+Kingsley	:;-	The Monsters of Otherness	:;-		:;-	Erec Rex 	:;-	2	:;-	AUS	:;-	4.4	:;-	14	:;-	MG	:;-	2007
+Kingsley	:;-	The Search For Truth	:;-		:;-	Erec Rex 	:;-	3	:;-	AUS	:;-		:;-		:;-		:;-	2009
+Kirby	:;-	The Clockwork Three	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+Kladstrup	:;-	The Book of Story Beginnings	:;-		:;-		:;-		:;-		:;-	4.5	:;-	10	:;-	MG	:;-	2006
+Konigsburg	:;-	Proud Taste for Scarlet and Minever	:;-	Historical	:;-		:;-		:;-		:;-	5.4	:;-	5	:;-	MG	:;-	1973
+Labrecque	:;-	Tecumseh: shooting star of Shawnee	:;-	Biography	:;-		:;-		:;-	J 921 TH	:;-		:;-		:;-		:;-	
+Lackey	:;-	The Outstretched Shadow	:;-		:;-	The Obsidian Trilogy	:;-	1	:;-		:;-	7.4	:;-	43	:;-	UG	:;-	2003
+Lackey	:;-	To Light a Candle	:;-		:;-	The Obsidian Trilogy	:;-	2	:;-		:;-		:;-		:;-		:;-	2004
+Lackey	:;-	When Darkness Falls	:;-		:;-	The Obsidian Trilogy	:;-	3	:;-		:;-		:;-		:;-		:;-	2006
+Lackey	:;-	Phoenix Unchained	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	2007
+Lamb	:;-	Tales from Shakespeare	:;-		:;-		:;-		:;-		:;-	12.8	:;-	23	:;-	MG	:;-	1807
+Lasky	:;-	A Guide Book to the Great Tree	:;-	Fantasy	:;-	Guardians of Ga'Hoole	:;-		:;-		:;-	6.5	:;-	5	:;-	MG	:;-	2007
+Lasky	:;-	The Capture	:;-	Fantasy	:;-	Guardians of Ga'Hoole  	:;-	1	:;-		:;-	4.8	:;-	7	:;-	MG	:;-	2003
+Lasky	:;-	The Journey	:;-	Fantasy	:;-	Guardians of Ga'Hoole  	:;-	2	:;-		:;-	5.1	:;-	7	:;-	MG	:;-	2003
+Lasky	:;-	The Rescue	:;-	Fantasy	:;-	Guardians of Ga'Hoole  	:;-	3	:;-		:;-	5.3	:;-	6	:;-	MG	:;-	2004
+Lasky	:;-	The Siege	:;-	Fantasy	:;-	Guardians of Ga'Hoole  	:;-	4	:;-		:;-	5.6	:;-	6	:;-	MG	:;-	2004
+Lasky	:;-	The Shattering	:;-	Fantasy	:;-	Guardians of Ga'Hoole  	:;-	5	:;-		:;-	5.1	:;-	5	:;-	MG	:;-	2004
+Lasky	:;-	The Burning	:;-	Fantasy	:;-	Guardians of Ga'Hoole  	:;-	6	:;-		:;-	5.4	:;-	6	:;-	MG	:;-	2004
+Lasky	:;-	The Hatchling	:;-	Fantasy	:;-	Guardians of Ga'Hoole  	:;-	7	:;-		:;-	5	:;-	7	:;-	MG	:;-	2005
+Lasky	:;-	The Outcast	:;-	Fantasy	:;-	Guardians of Ga'Hoole  	:;-	8	:;-		:;-	5.1	:;-	6	:;-	MG	:;-	2005
+Lasky	:;-	The First Collier	:;-	Fantasy	:;-	Guardians of Ga'Hoole  	:;-	9	:;-		:;-	5.6	:;-	6	:;-	MG	:;-	2006
+Lasky	:;-	The Coming of Hoole	:;-	Fantasy	:;-	Guardians of Ga'Hoole  	:;-	10	:;-		:;-	5.2	:;-	6	:;-	MG	:;-	2006
+Lasky	:;-	To be A King	:;-	Fantasy	:;-	Guardians of Ga'Hoole  	:;-	11	:;-		:;-	5.3	:;-	6	:;-	MG	:;-	2006
+Lasky	:;-	The Golden Tree	:;-	Fantasy	:;-	Guardians of Ga'Hoole  	:;-	12	:;-		:;-	5.5	:;-	6	:;-	MG	:;-	2006
+Lasky	:;-	The River of Wind	:;-	Fantasy	:;-	Guardians of Ga'Hoole: The Legends	:;-	13	:;-		:;-	5.3	:;-	6	:;-	MG	:;-	2007
+Lasky	:;-	Exile	:;-	Fantasy	:;-	Guardians of Ga'Hoole: The Legends	:;-	14	:;-		:;-	5.3	:;-	6	:;-	MG	:;-	2008
+Lasky	:;-	The War of the Ember	:;-	Fantasy	:;-	Guardians of Ga'Hoole: The Legends	:;-	15	:;-		:;-	5.5	:;-	7	:;-	MG	:;-	2008
+Lathan	:;-	Carry on, Mr. Bowditch	:;-	Historical	:;-		:;-		:;-		:;-	4	:;-	8	:;-	MG	:;-	1955
+Lawhead	:;-	Hood	:;-		:;-	King Raven Trilogy	:;-		:;-		:;-		:;-		:;-		:;-	
+Lawrence	:;-	The Wreckers	:;-		:;-	High Sea Trilogy	:;-	1	:;-		:;-	4.2	:;-	6	:;-	UG	:;-	1998
+Lawrence	:;-	The Smugglers	:;-		:;-	High Sea Trilogy	:;-	2	:;-		:;-	4.7	:;-	6	:;-	UG	:;-	1999
+Lawrence	:;-	The Buccaneers	:;-		:;-	High Sea Trilogy	:;-	3	:;-		:;-	5	:;-	9	:;-	UG	:;-	2001
+Lawson	:;-	Ben and Me	:;-		:;-		:;-		:;-		:;-	6.9	:;-	3	:;-	MG	:;-	1923
+Lawson	:;-	Rabbit Hill	:;-		:;-		:;-		:;-		:;-	6.4	:;-	3	:;-	MG	:;-	1944
+L'Engle	:;-	A Wrinkle in Time	:;-		:;-	Time Quartet 	:;-	1	:;-	AUS	:;-	4.7	:;-	7	:;-	MG	:;-	1962
+L'Engle	:;-	A Wind in the Door	:;-		:;-	Time Quartet 	:;-	2	:;-	AUS	:;-	5	:;-	7	:;-	MG	:;-	1973
+L'Engle	:;-	A Swiftly Tilting Planet	:;-		:;-	Time Quartet 	:;-	3	:;-	AUS	:;-	5.2	:;-	10	:;-	UG	:;-	1978
+L'Engle	:;-	Many Waters	:;-		:;-	Time Quartet 	:;-	4	:;-	AUS	:;-	4.7	:;-	10	:;-	UG	:;-	1986
+Levine	:;-	Ella Enchanted	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+Lewis	:;-	The Lion, Witch & the Wardrobe	:;-		:;-	Chronicles of Narnia	:;-	1	:;-		:;-	5.7	:;-	6	:;-		:;-	1950
+Lewis	:;-	Prince Caspian	:;-		:;-	Chronicles of Narnia	:;-	2	:;-		:;-	5.7	:;-	7	:;-		:;-	1951
+Lewis	:;-	Voyage of the Dawn Treader	:;-		:;-	Chronicles of Narnia	:;-	3	:;-		:;-	5.9	:;-	9	:;-		:;-	1952
+Lewis	:;-	The Silver Chair	:;-		:;-	Chronicles of Narnia	:;-	4	:;-		:;-	5.7	:;-	8	:;-		:;-	1953
+Lewis	:;-	The Horse and His Boy	:;-		:;-	Chronicles of Narnia	:;-	5	:;-		:;-	5.8	:;-	8	:;-		:;-	1954
+Lewis	:;-	The Magician's Nephew	:;-		:;-	Chronicles of Narnia	:;-	6	:;-		:;-	5.4	:;-	6	:;-		:;-	1955
+Lewis	:;-	The Last Battle	:;-		:;-	Chronicles of Narnia	:;-	7	:;-		:;-	5.6	:;-	7	:;-		:;-	1956
+Lewis	:;-	Gifted Hands, Kid's Edition: Ben Carson	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+Lindgren	:;-	The Children of Noisy Village	:;-		:;-	Noisy Village	:;-		:;-		:;-		:;-	0	:;-		:;-	1962
+Lofting	:;-	The Voyages of Dr. Doolittle	:;-		:;-		:;-		:;-		:;-	5.7	:;-	11	:;-	MG	:;-	1922
+London	:;-	Call of the Wild	:;-		:;-		:;-		:;-		:;-	8	:;-	7	:;-	MG	:;-	1903
+London	:;-	White Fang	:;-		:;-		:;-		:;-		:;-	7.4	:;-	14	:;-	MG	:;-	1906
+Lowry	:;-	The Giver	:;-		:;-	The Giver	:;-	1	:;-		:;-	5.7	:;-	7	:;-	MG	:;-	1993
+Lowry	:;-	Gathering Blue	:;-		:;-	The Giver	:;-	2	:;-		:;-		:;-		:;-		:;-	
+Lowry	:;-	The Messenger 	:;-		:;-	The Giver	:;-	3	:;-		:;-		:;-		:;-		:;-	
+Lowry	:;-	Son  	:;-		:;-	The Giver	:;-	4	:;-		:;-		:;-		:;-		:;-	
+Lucas	:;-	A New Hope	:;-	SciFi	:;-	Star Wars	:;-	1	:;-		:;-		:;-	0	:;-	MG	:;-	
+MacDonald	:;-	The Princess and the Goblin	:;-	Fantasy	:;-	Faery Trilogy	:;-	1	:;-		:;-	6.1	:;-	8	:;-	MG	:;-	1872
+MacDonald	:;-	The Princess and Curdie	:;-	Fantasy	:;-	Faery Trilogy	:;-	2	:;-		:;-	8.4	:;-	10	:;-	MG	:;-	1883
+MacDonald	:;-	At the Back of the North Wind	:;-	Fantasy	:;-	Faery Trilogy	:;-		:;-		:;-	5.4	:;-	14	:;-	UG	:;-	1871
+MacDonald	:;-	Lilith, a romance (Kindle Version)	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+McArthur	:;-	The Plant That Ate Dirty Socks	:;-		:;-		:;-		:;-		:;-	5.7	:;-	4	:;-	MG	:;-	1988
+McCaughrean	:;-	Hercules	:;-	Mythology	:;-	Mythology	:;-		:;-		:;-	5.7	:;-	5	:;-	MG	:;-	2005
+McCaughrean	:;-	Odysseus	:;-	Mythology	:;-	Mythology	:;-		:;-		:;-	6	:;-	6	:;-	MG	:;-	2004
+McCaughrean	:;-	Perseus	:;-	Mythology	:;-	Mythology	:;-		:;-		:;-	5.7	:;-	4	:;-	MG	:;-	2003
+McCaughrean	:;-	Theseus	:;-	Mythology	:;-	Mythology	:;-		:;-		:;-	5.9	:;-	4	:;-	MG	:;-	2005
+McCaughrean	:;-	Peter Pan in Scarlet	:;-		:;-		:;-		:;-		:;-	5.9	:;-	9	:;-	MG	:;-	2006
+McCloskey	:;-	Homer Price	:;-		:;-	Homer Price	:;-	1	:;-		:;-	6.6	:;-	4	:;-	MG	:;-	1943
+McCloskey	:;-	Centerburg Tales	:;-		:;-	Homer Price	:;-	2	:;-		:;-	6	:;-	5	:;-	MG	:;-	1951
+McGraw	:;-	Golden Goblet	:;-	Historical	:;-		:;-		:;-		:;-	6.3	:;-	11	:;-		:;-	1961
+McSwigan	:;-	Snow Treasure	:;-	Historical	:;-	WWII	:;-		:;-		:;-	5.3	:;-	5	:;-	MG	:;-	1942
+Milway	:;-	The Mousehunter	:;-		:;-		:;-		:;-	AUS	:;-	6.5	:;-	11	:;-	MG	:;-	2009
+Moesta	:;-	Anakin's Quest	:;-	SciFi	:;-	Star Wars: Junior Jedi Knights	:;-		:;-		:;-	5.3	:;-	3	:;-	MG	:;-	
+Montgomery	:;-	Anne of Avonlea	:;-		:;-	Anne of Green Gables	:;-		:;-		:;-		:;-		:;-		:;-	
+Montgomery	:;-	Anne of Green Gables	:;-		:;-	Anne of Green Gables	:;-		:;-		:;-		:;-		:;-		:;-	
+Montgomery	:;-	Anne of Ingleside	:;-		:;-	Anne of Green Gables	:;-		:;-		:;-		:;-		:;-		:;-	
+Montgomery	:;-	Anne of the Island	:;-		:;-	Anne of Green Gables	:;-		:;-		:;-		:;-		:;-		:;-	
+Montgomery	:;-	Anne of Windy Poplars	:;-		:;-	Anne of Green Gables	:;-		:;-		:;-		:;-		:;-		:;-	
+Montgomery	:;-	Anne's House of Dreams	:;-		:;-	Anne of Green Gables	:;-		:;-		:;-		:;-		:;-		:;-	
+Montgomery	:;-	Before Green Gables	:;-		:;-	Anne of Green Gables	:;-		:;-		:;-		:;-		:;-		:;-	
+Montgomery	:;-	Rainbow Valley	:;-		:;-	Anne of Green Gables	:;-		:;-		:;-		:;-		:;-		:;-	
+Montgomery	:;-	Rilla of Ingleside	:;-		:;-	Anne of Green Gables	:;-		:;-		:;-		:;-		:;-		:;-	
+Morris	:;-	The Squire's Tale	:;-	Historical	:;-	Squire's Tale	:;-	1	:;-	HOME	:;-	4.8	:;-	7	:;-	MG	:;-	1998
+Morris	:;-	The Squire, His Knight, & His Lady	:;-	Historical	:;-	Squire's Tale	:;-	2	:;-	HOME	:;-	5.2	:;-	7	:;-	MG	:;-	1999
+Morris	:;-	The Savage Damsel and the Dwarf	:;-	Historical	:;-	Squire's Tale	:;-	3	:;-	HOME	:;-	5.3	:;-	7	:;-	MG	:;-	2000
+Morris	:;-	Parsifal's Page	:;-	Historical	:;-	Squire's Tale	:;-	4	:;-	HOME	:;-	5.2	:;-	10	:;-	MG	:;-	2001
+Morris	:;-	The Ballad of Sir Dinadan	:;-	Historical	:;-	Squire's Tale	:;-	5	:;-	AUS-E	:;-	5.3	:;-	8	:;-	MG	:;-	2003
+Morris	:;-	The Princess, The Crone, & the Dung-Card Knight	:;-	Historical	:;-	Squire's Tale	:;-	6	:;-	AUS-E	:;-	5.2	:;-	10	:;-	MG	:;-	2004
+Morris	:;-	The Lioness and Her Knight	:;-	Historical	:;-	Squire's Tale	:;-	7	:;-	AUS	:;-	5.1	:;-	11	:;-	MG	:;-	2005
+Morris	:;-	The Quest for the Fair Unknown	:;-	Historical	:;-	Squire's Tale	:;-	8	:;-	HOME	:;-	5	:;-	9	:;-	MG	:;-	2006
+Morris	:;-	The Squire's Quest	:;-		:;-	Squire's Tale	:;-	9	:;-	AUS-E	:;-		:;-		:;-		:;-	
+Morris	:;-	The Legend of the King	:;-	Historical	:;-	Squire's Tale	:;-	10	:;-	AUS-E	:;-	5	:;-	9	:;-	MG	:;-	2010
+Morris	:;-	The Adventures of Sir Lancelot the Great	:;-	Historical	:;-	The Knight's Tale	:;-	1	:;-	AUS	:;-		:;-		:;-		:;-	2008
+Morris	:;-	The Adventure of Sir Balin the Ill-fated	:;-	Historical	:;-	The Knight's Tale	:;-		:;-		:;-		:;-		:;-		:;-	
+Morris	:;-	The Adventures of Givret the Short	:;-	Historical	:;-	The Knight's Tale	:;-		:;-		:;-		:;-		:;-		:;-	
+Morris	:;-	The Adventures of Sir Gawain the True 	:;-	Historical	:;-	The Knight's Tale	:;-		:;-		:;-		:;-		:;-		:;-	
+Mull	:;-	A World Without Heroes	:;-		:;-	Beyonders	:;-	1	:;-	HOME	:;-		:;-		:;-		:;-	
+Mull	:;-	Chasing the Prophecy	:;-		:;-	Beyonders	:;-	2	:;-	HOME	:;-		:;-		:;-		:;-	
+Mull	:;-	Seeds of Rebellion	:;-		:;-	Beyonders	:;-	2	:;-	HOME	:;-		:;-		:;-		:;-	
+Mull	:;-	Fablehaven	:;-	Fantasy	:;-	Fablehaven 	:;-	1	:;-	HOME	:;-	4.8	:;-	11	:;-	MG	:;-	2006
+Mull	:;-	Rise of the Evening Star	:;-	Fantasy	:;-	Fablehaven 	:;-	2	:;-	HOME	:;-	5	:;-	15	:;-	MG	:;-	2007
+Mull	:;-	Grip of the Shadow Plague	:;-	Fantasy	:;-	Fablehaven 	:;-	3	:;-	HOME	:;-	5.6	:;-	17	:;-	MG	:;-	2008
+Mull	:;-	Secrets of the Dragon Sanctuary	:;-	Fantasy	:;-	Fablehaven 	:;-	4	:;-	HOME	:;-	5.1	:;-	19	:;-		:;-	2009
+Mull	:;-	Keys to the Demon Prison	:;-	Fantasy	:;-	Fablehaven 	:;-	5	:;-	HOME	:;-		:;-		:;-		:;-	2010
+Nesbit	:;-	Five Children and It	:;-	Fantasy	:;-	Psammead Series	:;-	1	:;-		:;-	5.7	:;-	8	:;-	MG	:;-	1902
+Nesbit	:;-	The Phoenix and the Carpet	:;-	Fantasy	:;-	Psammead Series	:;-	2	:;-		:;-	6	:;-	10	:;-	UG	:;-	1904
+Nesbit	:;-	The Story of the Amulet	:;-	Fantasy	:;-	Psammead Series	:;-	3	:;-		:;-	6.7	:;-	11	:;-	MG	:;-	1906
+Nesbit	:;-	The Book of Dragons	:;-	Fantasy	:;-		:;-		:;-		:;-	7.4	:;-	7	:;-	MG	:;-	1900
+Nesbit	:;-	The Enchanted Castle	:;-	Fantasy	:;-		:;-		:;-	HOME	:;-	6.1	:;-	11	:;-	UG	:;-	1907
+Nesbit	:;-	The House of Arden	:;-		:;-		:;-		:;-	Home	:;-	5.8	:;-	11	:;-	MG	:;-	1908
+Nesbit	:;-	The Railway Children	:;-		:;-		:;-		:;-		:;-	5.5	:;-	9	:;-	UG	:;-	1906
+Nix	:;-	Across the Wall	:;-		:;-	Old Kingdom	:;-	5	:;-		:;-		:;-		:;-		:;-	
+Nix	:;-	Sabriel	:;-		:;-	Old Kingdom  	:;-	1	:;-	AUS	:;-		:;-		:;-		:;-	
+Nix	:;-	Lirael	:;-		:;-	Old Kingdom  	:;-	2	:;-	AUS	:;-		:;-		:;-		:;-	
+Nix	:;-	Abhorsen	:;-		:;-	Old Kingdom  	:;-	3	:;-	AUS	:;-		:;-		:;-		:;-	
+Nix	:;-	Clariel	:;-		:;-	Old Kingdom  	:;-	4	:;-		:;-		:;-		:;-		:;-	
+Nix	:;-	The Fall	:;-		:;-	Seventh Tower	:;-	1	:;-		:;-	5.9	:;-	6	:;-	MG	:;-	2000
+Nix	:;-	Castle	:;-		:;-	Seventh Tower	:;-	2	:;-		:;-	5.7	:;-	6	:;-	MG	:;-	2000
+Nix	:;-	Aenir	:;-		:;-	Seventh Tower	:;-	3	:;-		:;-	5.2	:;-	6	:;-	MG	:;-	2001
+Nix	:;-	Above the Veil	:;-		:;-	Seventh Tower	:;-	4	:;-		:;-	5.7	:;-	7	:;-	MG	:;-	2001
+Nix	:;-	Into Battle	:;-		:;-	Seventh Tower	:;-	5	:;-		:;-	5.5	:;-	6	:;-	MG	:;-	2001
+Nix	:;-	The Violet Keystone	:;-		:;-	Seventh Tower	:;-	6	:;-		:;-	5.8	:;-	7	:;-	MG	:;-	2001
+nordhoff	:;-	The Mutiny on the Bounty	:;-		:;-	Bounty Trilogy	:;-	1	:;-		:;-		:;-		:;-		:;-	1932
+Norton	:;-	Bedknob and Broomstick	:;-		:;-		:;-		:;-		:;-	4.8	:;-	6	:;-	MG	:;-	1940
+Norton	:;-	Shadow Hawk	:;-		:;-		:;-		:;-		:;-		:;-	0	:;-		:;-	1960
+O'Dell	:;-	The Amethyst Ring	:;-	Historical	:;-	The Seven Serpents	:;-		:;-		:;-	6.1	:;-	10	:;-	MG	:;-	
+O'Dell	:;-	The Captive	:;-	Historical	:;-	The Seven Serpents	:;-		:;-		:;-	6.5	:;-	9	:;-	MG	:;-	
+O'Dell	:;-	The Feathered Serpent	:;-	Historical	:;-	The Seven Serpents	:;-		:;-		:;-	6.7	:;-	9	:;-	MG	:;-	
+O'Dell	:;-	Island of the Blue Dolphin	:;-	Historical	:;-		:;-		:;-	AUS	:;-	5.4	:;-	6	:;-	MG	:;-	1960
+Orczy	:;-	The Scarlet Pimpernel	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+Ormondroyd	:;-	David & the Phoenix	:;-		:;-		:;-		:;-		:;-		:;-	0	:;-		:;-	1957
+Ormondroyd	:;-	Time at the Top	:;-		:;-		:;-		:;-		:;-		:;-	0	:;-		:;-	1963
+Orwell	:;-	"1984"	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	1949
+Orwell	:;-	Animal Farm	:;-		:;-		:;-		:;-	AUS	:;-	7.3	:;-	5	:;-	UG	:;-	1945
+Paolini	:;-	Eragon	:;-		:;-	Inheritance Cycle	:;-	1	:;-		:;-	5.6	:;-	25	:;-	UG	:;-	2002
+Paolini	:;-	Eldest	:;-		:;-	Inheritance Cycle	:;-	2	:;-		:;-	7	:;-	36	:;-	UG	:;-	2005
+Paolini	:;-	Brisingr	:;-		:;-	Inheritance Cycle	:;-	3	:;-		:;-	7.8	:;-	45	:;-	UG	:;-	2008
+Paolini	:;-	Inheritance	:;-		:;-	Inheritance Cycle	:;-	4	:;-		:;-		:;-		:;-		:;-	
+Paolini	:;-	Bridge to Terabithia	:;-		:;-		:;-		:;-		:;-	4.6	:;-	5	:;-	MG	:;-	1977
+Paterson	:;-	The Pharaohs of Ancient Egypt	:;-	Historical	:;-		:;-		:;-	HOME	:;-	8.3	:;-	6	:;-	MG	:;-	1964
+Paulsen	:;-	The Hatchet	:;-	Historical	:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+Payne	:;-	Tom's Midnight Garden	:;-		:;-		:;-		:;-		:;-	6.1	:;-	9	:;-	MG	:;-	1958
+Pearce	:;-	Beorn the Proud	:;-	Historical	:;-		:;-		:;-		:;-	n/a	:;-		:;-		:;-	
+Philbrick	:;-	The Last Stand 	:;-		:;-		:;-		:;-	AUS	:;-		:;-	0	:;-		:;-	
+Prevost	:;-	The Book of Time	:;-		:;-	Book of Time	:;-	1	:;-	AUS	:;-	5.6	:;-	9	:;-	MG	:;-	2007
+Prevost	:;-	The Gate of Days	:;-		:;-	Book of Time	:;-	2	:;-	n/a	:;-	5.7	:;-	10	:;-	MG	:;-	2009
+Raskin	:;-	The Westing Game	:;-		:;-		:;-		:;-		:;-	5.3	:;-	8	:;-	MG	:;-	1978
+Rawls	:;-	Where the Red Fern Grown	:;-	Historical	:;-		:;-		:;-	HOME	:;-	4.9	:;-	11	:;-	MG	:;-	1961
+Reef	:;-	The Bronte Sisters	:;-	Non-Fiction	:;-		:;-		:;-	Y 803.809RE	:;-		:;-		:;-		:;-	
+Reisman	:;-	Simon Bloom:  The Gravity Keeper	:;-	SciFi	:;-	Simon Bloom 	:;-	1	:;-	HOME	:;-	4.9	:;-	9	:;-	MG	:;-	2009
+Reisman	:;-	Simon Bloom:  The Octopus Effect	:;-	SciFi	:;-	Simon Bloom 	:;-	2	:;-	HOME	:;-	4.3	:;-	13	:;-	MG	:;-	2009
+Reisman	:;-	Simon Bloom:	:;-	SciFi	:;-	Simon Bloom 	:;-	3	:;-	Home	:;-		:;-		:;-		:;-	
+Richardson	:;-	Lyric's World	:;-	SciFi	:;-	Star Wars: Junior Jedi Knights	:;-		:;-		:;-	5.7	:;-	3	:;-		:;-	
+Riordan	:;-	The Lost Hero	:;-	Fantasy	:;-	Heroes of Olympus	:;-	1	:;-	HOME	:;-		:;-		:;-		:;-	
+Riordan	:;-	The Son of Neptune	:;-	Fantasy	:;-	Heroes of Olympus	:;-	2	:;-	HOME	:;-		:;-		:;-		:;-	
+Riordan	:;-	The Mark of Athena	:;-	Fantasy	:;-	Heroes of Olympus	:;-	3	:;-	HOME	:;-		:;-		:;-		:;-	
+Riordan	:;-	The House of Hades	:;-	Fantasy	:;-	Heroes of Olympus	:;-	4	:;-	HOME	:;-		:;-		:;-		:;-	
+Riordan	:;-	The Blood of Olympus	:;-	Fantasy	:;-	Heroes of Olympus	:;-	5	:;-		:;-		:;-		:;-		:;-	
+Riordan	:;-	The Lightning Thief 	:;-	Fantasy	:;-	Percy Jackson & The Olympians	:;-	1	:;-	HOME	:;-	4.7	:;-	13	:;-	MG	:;-	2005
+Riordan	:;-	Sea of Monsters	:;-	Fantasy	:;-	Percy Jackson & The Olympians	:;-	2	:;-	HOME	:;-	4.6	:;-	9	:;-	MG	:;-	2006
+Riordan	:;-	Battle of the Labyrinth	:;-	Fantasy	:;-	Percy Jackson & The Olympians	:;-	3	:;-	HOME	:;-	4.1	:;-	12	:;-	MG	:;-	2008
+Riordan	:;-	The Last Olympian	:;-	Fantasy	:;-	Percy Jackson & The Olympians	:;-	4	:;-	HOME	:;-		:;-		:;-	MG	:;-	2009
+Riordan	:;-	The Titan's Curse	:;-	Fantasy	:;-	Percy Jackson & The Olympians	:;-	5	:;-	HOME	:;-	4.2	:;-	10	:;-	MG	:;-	2007
+Riordan	:;-	The Red Pyramid	:;-	Fantasy	:;-	The Kane Chronicles	:;-	1	:;-	HOME	:;-		:;-		:;-		:;-	
+Riordan	:;-	The Throne of Fire	:;-	Fantasy	:;-	The Kane Chronicles	:;-	2	:;-	HOME	:;-		:;-		:;-		:;-	
+Riordan	:;-	The Serpent's Shadow	:;-	Fantasy	:;-	The Kane Chronicles	:;-	3	:;-	HOME	:;-		:;-		:;-		:;-	
+Robertson	:;-	Henry Reed	:;-		:;-	Henry Reed	:;-	1	:;-	n/a	:;-	5.5	:;-	8	:;-	MG	:;-	1958
+Robertson	:;-	Henry Reed's Journey	:;-		:;-	Henry Reed	:;-	2	:;-	AUS	:;-	5.5	:;-	7	:;-	MG	:;-	1963
+Robertson	:;-	Henry Reed's Baby Sitting Service	:;-		:;-	Henry Reed	:;-	3	:;-		:;-	5.1	:;-	6	:;-	MG	:;-	1966
+Robertson	:;-	Henry Reed's Big Show	:;-		:;-	Henry Reed	:;-	4	:;-	AUS	:;-		:;-	0	:;-	MG	:;-	1970
+Robertson	:;-	Henry Reed's Think Tank	:;-		:;-	Henry Reed	:;-	5	:;-	AUS	:;-	5.6	:;-	7	:;-	MG	:;-	1986
+Rodda	:;-	Dragon's Nest	:;-	Fantasy	:;-	Deltora Dragons	:;-	1	:;-		:;-	5.4	:;-	5	:;-	MG	:;-	2004
+Rodda	:;-	Shadowgate	:;-	Fantasy	:;-	Deltora Dragons	:;-	2	:;-		:;-	4.7	:;-	6	:;-	MG	:;-	2004
+Rodda	:;-	Isle of the Dead	:;-	Fantasy	:;-	Deltora Dragons	:;-	3	:;-		:;-	5.2	:;-	6	:;-	MG	:;-	2004
+Rodda	:;-	The Sister of the South	:;-	Fantasy	:;-	Deltora Dragons	:;-	4	:;-		:;-	5.5	:;-	6	:;-	MG	:;-	2004
+Rodda	:;-	The Forests of Silence	:;-	Fantasy	:;-	Deltora Quest	:;-	1	:;-		:;-	5	:;-	4	:;-	MG	:;-	2001
+Rodda	:;-	The Lake of Tears	:;-	Fantasy	:;-	Deltora Quest	:;-	2	:;-		:;-	5.4	:;-	4	:;-	MG	:;-	2001
+Rodda	:;-	City of the Rats	:;-	Fantasy	:;-	Deltora Quest	:;-	3	:;-		:;-	5.1	:;-	4	:;-	MG	:;-	2001
+Rodda	:;-	The Shifting Sands	:;-	Fantasy	:;-	Deltora Quest	:;-	4	:;-		:;-	5.2	:;-	4	:;-	MG	:;-	2001
+Rodda	:;-	Dread Mountain	:;-	Fantasy	:;-	Deltora Quest	:;-	5	:;-		:;-	5.1	:;-	4	:;-	MG	:;-	2001
+Rodda	:;-	The Maze of the Beast	:;-	Fantasy	:;-	Deltora Quest	:;-	6	:;-		:;-	5	:;-	4	:;-	MG	:;-	2001
+Rodda	:;-	The Valley of the Lost	:;-	Fantasy	:;-	Deltora Quest	:;-	7	:;-		:;-	5.1	:;-	4	:;-	MG	:;-	2002
+Rodda	:;-	Return to Del	:;-	Fantasy	:;-	Deltora Quest	:;-	8	:;-		:;-	4.9	:;-	4	:;-	MG	:;-	2002
+Rodda	:;-	Tales of Deltora	:;-	Fantasy	:;-	Deltora Quest: Special Edition	:;-		:;-	n/a	:;-	6.1	:;-	7	:;-	MG	:;-	
+Rodda	:;-	Cavern of Fear	:;-	Fantasy	:;-	Deltora Shadowlands	:;-	1	:;-		:;-	5.1	:;-	5	:;-	MG	:;-	2002
+Rodda	:;-	The Isle of Illusion	:;-	Fantasy	:;-	Deltora Shadowlands	:;-	2	:;-		:;-	5.3	:;-	5	:;-	MG	:;-	2002
+Rodda	:;-	The Shadowlands	:;-	Fantasy	:;-	Deltora Shadowlands	:;-	3	:;-		:;-	5.3	:;-	5	:;-	MG	:;-	2002
+Rodda	:;-	Rowan of Rin	:;-		:;-	Rowan of Rin 	:;-	1	:;-		:;-	4.7	:;-	5	:;-	MG	:;-	1993
+Rodda	:;-	Rowan and the Travelers	:;-		:;-	Rowan of Rin 	:;-	2	:;-		:;-	4.4	:;-	4	:;-	MG	:;-	1994
+Rodda	:;-	Rowan and the Keepr of the Crystal	:;-		:;-	Rowan of Rin 	:;-	3	:;-		:;-	4.5	:;-	5	:;-	MG	:;-	1996
+Rodda	:;-	Rowan and the Zebak	:;-		:;-	Rowan of Rin 	:;-	4	:;-		:;-	5.1	:;-	6	:;-	MG	:;-	1999
+Rodda	:;-	Rowan and the Ice Creepers	:;-		:;-	Rowan of Rin 	:;-	5	:;-		:;-	5.4	:;-	8	:;-	MG	:;-	2003
+Rogers	:;-	The Bark of the  Bog Owl	:;-		:;-	Wilderking Trilogy	:;-	1	:;-	AUS	:;-	5.9	:;-	9	:;-	MG	:;-	2004
+Rogers	:;-	The Secret of the Swamp King	:;-		:;-	Wilderking Trilogy	:;-	2	:;-	AUS	:;-	5.7	:;-	8	:;-	MG	:;-	2005
+Rogers	:;-	The Way of the Wilderking	:;-		:;-	Wilderking Trilogy	:;-	3	:;-	AUS	:;-	5.6	:;-	8	:;-	MG	:;-	2006
+Rollins	:;-	Jake Ransom and the Skull King's Shadow	:;-		:;-	Jake Ransom	:;-	1	:;-	HOME	:;-	5	:;-	12	:;-	MG	:;-	2009
+Rollins	:;-	Jake and the Howling Sphinx	:;-		:;-	Jake Ransom	:;-	2	:;-	HOME	:;-	5.2	:;-	11	:;-	MG	:;-	2011
+Rowling	:;-	Sorcerer's Stone	:;-	Fantasy	:;-	Harry Potter	:;-	1	:;-	HOME	:;-	5.5	:;-	12	:;-	MG	:;-	1997
+Rowling	:;-	Chamber of Secrets	:;-	Fantasy	:;-	Harry Potter	:;-	2	:;-	HOME	:;-	6.7	:;-	14	:;-	MG	:;-	1998
+Rowling	:;-	Prisoner of Azkaban	:;-	Fantasy	:;-	Harry Potter	:;-	3	:;-	HOME	:;-	6.7	:;-	18	:;-	MG	:;-	1999
+Rowling	:;-	Goblet of Fire	:;-	Fantasy	:;-	Harry Potter	:;-	4	:;-	HOME	:;-	6.8	:;-	32	:;-	MG	:;-	2000
+Rowling	:;-	Order of the Phoenix	:;-	Fantasy	:;-	Harry Potter	:;-	5	:;-	HOME	:;-	7.2	:;-	44	:;-	MG	:;-	2003
+Rowling	:;-	Half-Blood Prince	:;-	Fantasy	:;-	Harry Potter	:;-	6	:;-	HOME	:;-	7.2	:;-	29	:;-	MG	:;-	2005
+Rowling	:;-	Deathly Hallows	:;-	Fantasy	:;-	Harry Potter	:;-	7	:;-	HOME	:;-	6.9	:;-	34	:;-	MG	:;-	2007
+Rupp	:;-	The Dragon of Lonely Island	:;-	Fantasy	:;-	Dragon of Lonely Island	:;-	1	:;-	HOME	:;-	5	:;-	4	:;-	MG	:;-	1998
+Rupp	:;-	The Return of The Dragon	:;-	Fantasy	:;-	Dragon of Lonely Island	:;-	2	:;-		:;-	4.5	:;-	4	:;-	MG	:;-	2005
+Sachar	:;-	Holes	:;-		:;-		:;-		:;-		:;-	4.6	:;-	7	:;-	MG	:;-	1998
+Sage	:;-	Magyk	:;-	Fantasy	:;-	Septimus Heap 	:;-	1	:;-	HOME	:;-	6	:;-	18	:;-	MG	:;-	2005
+Sage	:;-	Flyte	:;-	Fantasy	:;-	Septimus Heap 	:;-	2	:;-	AUS	:;-	6	:;-	16	:;-	MG	:;-	2006
+Sage	:;-	Physik	:;-	Fantasy	:;-	Septimus Heap 	:;-	3	:;-	AUS	:;-	6.5	:;-	17	:;-	MG	:;-	2007
+Sage	:;-	Queste	:;-	Fantasy	:;-	Septimus Heap 	:;-	4	:;-	AUS	:;-	5.8	:;-	18	:;-	MG	:;-	2008
+Sage	:;-	Siren	:;-	Fantasy	:;-	Septimus Heap 	:;-	5	:;-		:;-		:;-	0	:;-		:;-	2009*
+Sage	:;-	Fyre	:;-	Fantasy	:;-	Septimus Heap 	:;-	7	:;-	AUS	:;-		:;-		:;-	MG	:;-	2013
+Sage	:;-	Darke	:;-		:;-	Septimus Heap 	:;-	6	:;-	AUS	:;-		:;-		:;-		:;-	
+Salvatore	:;-	Attack of the Clones	:;-	SciFi	:;-	Star Wars	:;-	4	:;-		:;-	7.3	:;-	16	:;-	UG	:;-	
+Selden	:;-	The Cricket in Times Square	:;-		:;-		:;-		:;-		:;-	4.9	:;-	4	:;-		:;-	1960
+Smith	:;-	Independence Hall	:;-		:;-	IQ	:;-	1	:;-	HOME	:;-		:;-		:;-		:;-	
+Smith	:;-	The White House	:;-		:;-	IQ	:;-	2	:;-	HOME	:;-		:;-		:;-		:;-	
+Smith	:;-	Kitty Hawk	:;-		:;-	IQ	:;-	3	:;-	HOME	:;-		:;-		:;-		:;-	
+Smith	:;-	The Alamo	:;-		:;-	IQ	:;-	4	:;-	HOME	:;-		:;-		:;-		:;-	
+Smith	:;-	The Windy City	:;-		:;-	IQ	:;-	5	:;-	HOME	:;-		:;-		:;-		:;-	
+Smith	:;-	Alcatraz	:;-		:;-	IQ	:;-	6	:;-	HOME	:;-		:;-		:;-		:;-	
+Snedeker	:;-	Theras and his Town	:;-	Historical	:;-		:;-		:;-	HOME	:;-		:;-	0	:;-		:;-	1924
+Snyder	:;-	The Egypt Game	:;-	Historical	:;-		:;-		:;-		:;-	6.4	:;-	7	:;-	MG	:;-	1966
+Solzhenitsyn	:;-	One Day in the Life of Ivan	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+Speare	:;-	The Bronze Bow	:;-	Historical	:;-		:;-		:;-		:;-	5	:;-	10	:;-	MG	:;-	1961
+Speare	:;-	The Sign of the Beaver	:;-	Historical	:;-		:;-		:;-		:;-	4.9	:;-	5	:;-	MG	:;-	1983
+Speare	:;-	Witch of Blackbird Pond	:;-	Historical	:;-		:;-		:;-		:;-	5.7	:;-	9	:;-	MG	:;-	
+Stanley	:;-	Sitting Bull: great Sioux hero	:;-	Biography	:;-		:;-		:;-	J 921 SI	:;-		:;-		:;-		:;-	
+Steer 	:;-	The Dragon's Eye	:;-	Fantasy	:;-	Dragon Chronicles	:;-	1	:;-		:;-	5.6	:;-	7	:;-	MG	:;-	
+Steer 	:;-	The Dragon Diary	:;-	Fantasy	:;-	Dragon Chronicles	:;-	2	:;-		:;-		:;-	0	:;-		:;-	2009*
+Steig	:;-	Abel's Island	:;-		:;-		:;-		:;-		:;-	5.9	:;-	3	:;-	MG	:;-	1976
+Stewart	:;-	Beyond the Deepwoods	:;-		:;-	Edge Chronicles 	:;-	1	:;-		:;-	4.9	:;-	7	:;-	MG	:;-	1998
+Stewart	:;-	Stormchaser	:;-		:;-	Edge Chronicles 	:;-	2	:;-		:;-	5.4	:;-	11	:;-	MG	:;-	1999
+Stewart	:;-	Midnight over Sanctaphrax	:;-		:;-	Edge Chronicles 	:;-	3	:;-		:;-	5.1	:;-	10	:;-	MG	:;-	2000
+Stewart	:;-	The Curse of the Gloamglozer	:;-		:;-	Edge Chronicles 	:;-	4	:;-		:;-	5.4	:;-	12	:;-	MG  	:;-	2001
+Stewart	:;-	The Last of the Sky Pirates	:;-		:;-	Edge Chronicles 	:;-	5	:;-		:;-	5.7	:;-	12	:;-	MG	:;-	2001
+Stewart	:;-	Vox	:;-		:;-	Edge Chronicles 	:;-	6	:;-		:;-	6.3	:;-	13	:;-	MG	:;-	2003
+Stewart	:;-	Freeglader	:;-		:;-	Edge Chronicles 	:;-	7	:;-		:;-	6.4	:;-	13	:;-	MG	:;-	2004
+Stewart	:;-	The Winter Knights	:;-		:;-	Edge Chronicles 	:;-	8	:;-		:;-	7.2	:;-	13	:;-	MG	:;-	2005
+Stewart	:;-	Clash of the Sky Galleons	:;-		:;-	Edge Chronicles 	:;-	9	:;-		:;-	7.3	:;-	14	:;-	MG	:;-	2007
+Stewart	:;-	Fergus Crane	:;-		:;-	Far Flung Adventures 	:;-	1	:;-		:;-	5.6	:;-	4	:;-	MG	:;-	
+Stewart	:;-	Corby Flood	:;-		:;-	Far Flung Adventures 	:;-	2	:;-		:;-	5.8	:;-	4	:;-	MG	:;-	
+Stewart	:;-	Hugo Pepper	:;-		:;-	Far Flung Adventures 	:;-	3	:;-		:;-	6.9	:;-	5	:;-	MG	:;-	
+Stewart	:;-	The Mysterious Benedict Society	:;-		:;-	Mysterious Benedict Society	:;-	1	:;-		:;-	5.6	:;-	18	:;-	MG	:;-	
+Stewart	:;-	The MBS & the Perilous Journey	:;-		:;-	Mysterious Benedict Society	:;-	2	:;-		:;-	6.1	:;-	19	:;-	MG	:;-	
+Stewart	:;-	The MBS & the Prisoner's Dilemma	:;-		:;-	Mysterious Benedict Society	:;-	3	:;-		:;-	6.3	:;-	15	:;-	MG	:;-	2009
+Stewart	:;-	The Extraordinary Education of Nicholas Benedict	:;-		:;-	Mysterious Benedict Society	:;-		:;-		:;-		:;-		:;-		:;-	
+Stewart	:;-	Book of Perplexing Puzzles	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+Stewart	:;-	Muddle Earth	:;-		:;-		:;-		:;-	AUS	:;-	4.8	:;-	12	:;-	MG	:;-	
+Stone	:;-	Tiger	:;-	Action	:;-	The Five  Ancestors 	:;-	1	:;-		:;-	5	:;-	6	:;-	MG	:;-	
+Stone	:;-	Monkey	:;-	Action	:;-	The Five  Ancestors 	:;-	2	:;-		:;-	4.3	:;-	5	:;-	MG	:;-	
+Stone	:;-	Snake	:;-	Action	:;-	The Five  Ancestors 	:;-	3	:;-		:;-	4.4	:;-	5	:;-	MG	:;-	
+Stone	:;-	Crane	:;-	Action	:;-	The Five  Ancestors 	:;-	4	:;-		:;-	4.8	:;-	8	:;-		:;-	
+Stone	:;-	Eagle	:;-	Action	:;-	The Five  Ancestors 	:;-	5	:;-		:;-	4.7	:;-	7	:;-	MG	:;-	
+Stone	:;-	Mouse	:;-	Action	:;-	The Five  Ancestors 	:;-	6	:;-		:;-		:;-		:;-		:;-	2009
+Stover	:;-	Revenge of the Sith	:;-	SciFi	:;-	Star Wars	:;-	5	:;-		:;-	6.4	:;-	19	:;-	UG	:;-	
+Stratemeyer	:;-	The Minute Boys of Bunker Hill	:;-	Historical	:;-		:;-		:;-	HOME	:;-		:;-	0	:;-		:;-	
+Stratemeyer	:;-	The Minute Boys of Lexington	:;-	Historical	:;-		:;-		:;-	HOME	:;-		:;-	0	:;-		:;-	
+Stroud	:;-	The Amulet of Samarkand	:;-	Fantasy	:;-	Bartimaeus Trilogy	:;-	1	:;-	AUS	:;-	5.9	:;-	19	:;-	MG	:;-	
+Stroud	:;-	The Golem's Eye	:;-	Fantasy	:;-	Bartimaeus Trilogy	:;-	2	:;-		:;-	5.9	:;-	24	:;-	MG	:;-	
+Stroud	:;-	Ptolemy's Gate	:;-	Fantasy	:;-	Bartimaeus Trilogy	:;-	3	:;-		:;-	5.7	:;-	20	:;-	MG	:;-	
+Stroud	:;-	Heroes of the Valley	:;-		:;-		:;-		:;-	AUS	:;-	5.6	:;-	17	:;-	MG	:;-	
+Sullivan	:;-	Geronimo: Apache renegade	:;-	Biography	:;-		:;-		:;-	J 921 GE	:;-		:;-		:;-		:;-	
+Sutcliff	:;-	The Eagle	:;-	Historical	:;-	Roman Britain Trilogy	:;-	1	:;-		:;-	7.1	:;-	15	:;-	MG+	:;-	1954
+Sutcliff	:;-	The Lantern Bearers	:;-	Historical	:;-	Roman Britain Trilogy	:;-	2	:;-		:;-	n/a	:;-		:;-		:;-	1959
+Sutcliff	:;-	The Silver Branch	:;-	Historical	:;-	Roman Britain Trilogy	:;-	3	:;-		:;-	n/a	:;-		:;-		:;-	1957
+Sutcliff	:;-	Sword and the Circle	:;-	Historical	:;-		:;-		:;-		:;-	6.7	:;-	15	:;-	UG	:;-	
+Tey	:;-	The Daughter of Time 	:;-	Historical	:;-		:;-		:;-		:;-	n/a	:;-		:;-		:;-	
+Tolkien	:;-	The Fellowship of the Ring	:;-	Fantasy	:;-	The Lord of the Rings Trilogy	:;-	1	:;-	HOME	:;-	6.1	:;-	29	:;-	UG	:;-	1954
+Tolkien	:;-	The Two Towers	:;-	Fantasy	:;-	The Lord of the Rings Trilogy	:;-	2	:;-	HOME	:;-	6.3	:;-	23	:;-	UG	:;-	1954
+Tolkien	:;-	The Return of the King	:;-	Fantasy	:;-	The Lord of the Rings Trilogy	:;-	3	:;-	HOME	:;-	6.2	:;-	22	:;-	UG	:;-	1955
+Tolkien	:;-	The Hobbit	:;-	Fantasy	:;-		:;-		:;-	HOME	:;-	6.6	:;-	16	:;-	UG	:;-	1937
+Travers	:;-	Mary Poppins	:;-		:;-	Mary Poppins	:;-	1	:;-		:;-	6.1	:;-	6	:;-		:;-	1934
+Travers	:;-	Mary Poppins Comes Back	:;-		:;-	Mary Poppins	:;-	2	:;-		:;-	5.2	:;-	8	:;-		:;-	
+Travers	:;-	Mary Poppins in the Park	:;-		:;-	Mary Poppins	:;-	3	:;-		:;-	4.8	:;-	7	:;-		:;-	
+Travers	:;-	Mary Poppins Opens the Door	:;-		:;-	Mary Poppins	:;-	4	:;-		:;-	5.1	:;-	7	:;-		:;-	
+Twain	:;-	A Connecticut Yankee in King Arthur's Court	:;-		:;-		:;-		:;-		:;-	9.2	:;-	21	:;-	UG	:;-	1889
+Twain	:;-	Prince and the Pauper (touchstone)	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+Twain	:;-	The Prince and the Pauper	:;-		:;-		:;-		:;-		:;-	9.6	:;-	14	:;-	MG	:;-	
+Van Leeuwen	:;-	Bound for Oregon	:;-		:;-		:;-		:;-		:;-	5.3	:;-	6	:;-	MG	:;-	1994
+Verne	:;-	20,000 Leagues Under The Sea	:;-	SciFi	:;-		:;-		:;-		:;-	10	:;-	28	:;-	UG	:;-	
+Verne	:;-	Around the World in Eighty Days	:;-	SciFi	:;-		:;-		:;-		:;-	9.6	:;-	12	:;-	MG	:;-	1873
+Verne	:;-	Journey to the Cente of the Earth	:;-	SciFi	:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+Walker	:;-	The Winter of Enchantment	:;-		:;-		:;-		:;-		:;-		:;-	0	:;-		:;-	
+Washington	:;-	Up From Slavery	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+Watson	:;-	The Changing of the Guard	:;-	SciFi	:;-	Jedi Quest	:;-		:;-		:;-	5	:;-	4	:;-	MG	:;-	
+Watson	:;-	The Dangerous Games	:;-	SciFi	:;-	Jedi Quest	:;-		:;-		:;-	5	:;-	5	:;-		:;-	
+Watson	:;-	The False Peace	:;-	SciFi	:;-	Jedi Quest	:;-		:;-		:;-	5.3	:;-	4	:;-		:;-	
+Watson	:;-	The Final Showdown	:;-	SciFi	:;-	Jedi Quest	:;-		:;-		:;-	4.8	:;-	4	:;-	MG	:;-	
+Watson	:;-	The Master of Disguise	:;-	SciFi	:;-	Jedi Quest	:;-		:;-		:;-	4.7	:;-	4	:;-	MG	:;-	
+Watson	:;-	The Moment of Truth	:;-	SciFi	:;-	Jedi Quest	:;-		:;-		:;-	4.9	:;-	4	:;-	MG	:;-	
+Watson	:;-	The School of Fear	:;-	SciFi	:;-	Jedi Quest	:;-		:;-		:;-	4.8	:;-	4	:;-	MG	:;-	
+Watson	:;-	The Shadow Trap	:;-	SciFi	:;-	Jedi Quest	:;-		:;-		:;-	4.9	:;-	4	:;-	MG	:;-	
+Watson	:;-	The Way of the Apprentice	:;-	SciFi	:;-	Jedi Quest	:;-		:;-		:;-	4.8	:;-	4	:;-		:;-	
+Watson	:;-	The Desperate Mission	:;-	SciFi	:;-	Last of the Jedi	:;-	1	:;-		:;-	4.5	:;-	5	:;-		:;-	
+Watson	:;-	Dark Warning	:;-	SciFi	:;-	Last of the Jedi	:;-	2	:;-		:;-	5.1	:;-	4	:;-		:;-	
+Watson	:;-	Underworld	:;-	SciFi	:;-	Last of the Jedi	:;-	3	:;-		:;-	4.7	:;-	4	:;-	MG	:;-	
+Watson	:;-	Death on Naboo	:;-	SciFi	:;-	Last of the Jedi	:;-	4	:;-		:;-	5.2	:;-	4	:;-	MG	:;-	
+Watson	:;-	Master of Deception	:;-	SciFi	:;-	Last of the Jedi	:;-	9	:;-		:;-	5	:;-	5	:;-	MG	:;-	
+Wells	:;-	The Time Machine	:;-	SciFi	:;-		:;-		:;-		:;-	7.4	:;-	6	:;-	UG	:;-	1895
+Wells	:;-	The War of the Worlds	:;-	SciFi	:;-		:;-		:;-		:;-	9.1	:;-	11	:;-	UG	:;-	1898
+Wheeler	:;-	Hostage	:;-	SciFi	:;-	Star Wars: Rebel Force	:;-		:;-		:;-	4.7	:;-	5	:;-	MG	:;-	
+Wheeler	:;-	Target	:;-	SciFi	:;-	Star Wars: Rebel Force	:;-		:;-		:;-	5	:;-	5	:;-	MG	:;-	
+White	:;-	The Sword in the Stone	:;-		:;-	The Once and Future King	:;-	1	:;-		:;-	7.5	:;-	16	:;-	MG	:;-	1938
+White	:;-	The Queen of Air and Darkness	:;-		:;-	The Once and Future King	:;-	2	:;-		:;-		:;-		:;-		:;-	1939
+White	:;-	The Ill-Made Knight	:;-		:;-	The Once and Future King	:;-	3	:;-		:;-		:;-		:;-		:;-	1940
+White	:;-	The Candle in the Wind	:;-		:;-	The Once and Future King	:;-	4	:;-		:;-		:;-		:;-		:;-	1958
+White	:;-	The Book of Merlyn	:;-		:;-	The Once and Future King	:;-	5	:;-		:;-		:;-		:;-		:;-	1941
+White	:;-	The Once and Future King	:;-		:;-	The Once and Future King	:;-		:;-		:;-	7.4	:;-	41	:;-	UG	:;-	
+Wiggin	:;-	Rebecca of Sunnybrook Farm	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+Wilder	:;-	Farmer Boy	:;-	Historical	:;-	Little House	:;-	2	:;-	HOME	:;-	5.2	:;-	9	:;-		:;-	1933
+Wilder	:;-	Little House on the Prairie	:;-	Historical	:;-	Little House	:;-	3	:;-	HOME	:;-	4.9	:;-	8	:;-		:;-	1935
+Wilder	:;-	On the Banks of Plum Creek	:;-	Historical	:;-	Little House	:;-	4	:;-	HOME	:;-	4.6	:;-	8	:;-		:;-	1937
+Wilder	:;-	By the Shores of Silver Lake	:;-	Historical	:;-	Little House	:;-	5	:;-	HOME	:;-	5.3	:;-	9	:;-		:;-	1939
+Wilder	:;-	The Long Winter	:;-	Historical	:;-	Little House	:;-	6	:;-	HOME	:;-	5.3	:;-	10	:;-		:;-	1940
+Wilder	:;-	The Long Winter???	:;-	Historical	:;-	Little House	:;-	7	:;-	HOME	:;-	5.3	:;-	10	:;-		:;-	1940
+Wilder	:;-	These Happy Golden Years	:;-	Historical	:;-	Little House	:;-	8	:;-	HOME	:;-	5.6	:;-	10	:;-		:;-	1943
+Wilder	:;-	The First Four Years	:;-	Historical	:;-	Little House	:;-	9	:;-	HOME	:;-	5.8	:;-	4	:;-		:;-	1971
+Wilder 	:;-	Little House in the Big Woods	:;-	Historical	:;-	Little House	:;-	1	:;-	HOME	:;-	5.3	:;-	5	:;-		:;-	1932
+Willard	:;-	If All the Swords in England	:;-	Historical	:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+Willard	:;-	Son of Charlemagne	:;-	Historical	:;-		:;-		:;-		:;-		:;-	0	:;-		:;-	
+Williamson	:;-	Hittite Warrior	:;-	Historical	:;-		:;-		:;-		:;-	5.7	:;-	9	:;-		:;-	
+Winterfeld	:;-	Castaways in Lilliput	:;-		:;-		:;-		:;-		:;-	4.4	:;-	5	:;-	MG	:;-	
+Wolverton	:;-	The Rising Force 	:;-	SciFi	:;-	Jedi Apprentice	:;-		:;-		:;-	5	:;-	5	:;-		:;-	
+Woodside	:;-	Thomas Edison	:;-	Biography	:;-		:;-		:;-	J 921 Ed	:;-		:;-		:;-		:;-	
+Wrede	:;-	Dealing with Dragons	:;-	Fantasy	:;-	Enchanted Forest Chronicles 	:;-	1	:;-		:;-	5.3	:;-	9	:;-	MG	:;-	
+Wrede	:;-	Searching for Dragons	:;-	Fantasy	:;-	Enchanted Forest Chronicles 	:;-	2	:;-		:;-	4.6	:;-	10	:;-	MG	:;-	
+Wrede	:;-	Calling on Dragons	:;-	Fantasy	:;-	Enchanted Forest Chronicles 	:;-	3	:;-		:;-	5.5	:;-	8	:;-	MG	:;-	
+Wrede	:;-	Talking to Dragons	:;-	Fantasy	:;-	Enchanted Forest Chronicles 	:;-	4	:;-		:;-	4.6	:;-	20	:;-	MG	:;-	
+Wrede	:;-	Book of Enchantments	:;-	Fantasy	:;-		:;-		:;-	AUS	:;-	5.6	:;-	8	:;-	MG	:;-	
+Wrede	:;-	Sorcery & Cecelia 	:;-	Fantasy	:;-		:;-		:;-	AUS	:;-	6.7	:;-	13	:;-	UG	:;-	
+Yates	:;-	Amos Fortune	:;-		:;-		:;-		:;-		:;-	6.5	:;-	5	:;-	MG	:;-	1950
+Yolen	:;-	Atalanta and the Arcadian Beast	:;-	Mythology	:;-	Young Heroes	:;-		:;-	AUS	:;-	5.1	:;-	8	:;-	MG	:;-	
+Yolen	:;-	Hippolyta and the Curse of the Amazons	:;-	Mythology	:;-	Young Heroes	:;-		:;-	AUS	:;-	5	:;-	7	:;-	MG	:;-	
+Yolen	:;-	Jason and the Gorgon's Blood	:;-	Mythology	:;-	Young Heroes	:;-		:;-	AUS	:;-	5.1	:;-	8	:;-	MG	:;-	2004
+Yolen	:;-	Odysseus and the Serpent Maze	:;-	Mythology	:;-	Young Heroes	:;-		:;-	AUS	:;-	5	:;-	7	:;-	MG	:;-	
+Zahn	:;-	Dragon and Thief	:;-	Fantasy	:;-	Dragonback Adventure	:;-	1	:;-	AUS	:;-	5.4	:;-	9	:;-	MG	:;-	
+Zahn	:;-	Dragon and the Liberator	:;-	Fantasy	:;-	Dragonback Adventure	:;-	6	:;-		:;-	5.4	:;-	14	:;-	MG	:;-	
+Zamorsky	:;-	The Story of King Arthur and his Knights 	:;-		:;-	Classic Starts	:;-		:;-		:;-	6.3	:;-	3	:;-	MG	:;-	
+	:;-		:;-		:;-	Pendragon	:;-		:;-		:;-		:;-		:;-		:;-	
+	:;-	38 Latin Stories	:;-	Non-Fiction	:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+	:;-	An Adventure Through Time	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+	:;-	Book of the Ancient Greeks	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+	:;-	Cracking the Coding Interview	:;-	Non-Fiction	:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+	:;-	Gallic War: Seven Commentaries on The Gallic War with an Eighth Commentary	:;-	Non-Fiction	:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+	:;-	Hatchet	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+	:;-	Introduction to Mathematical Thinking	:;-	Non-Fiction	:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+	:;-	Moscow Puzzles	:;-	Non-Fiction	:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+	:;-	Sign of the Beaver	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+	:;-	SPQR Study Guides	:;-	Non-Fiction	:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+	:;-	The Code Book 	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+	:;-	Treasure Island: Literary Touchstone	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+	:;-	Wheelock's Latin	:;-	Non-Fiction	:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+	:;-	Workbook for Wheelock's Latin	:;-	Non-Fiction	:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+	:;-	Leviathan	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	
+Beagle	:;-	The Last Unicorn	:;-		:;-		:;-		:;-	AUS	:;-	6.2	:;-	11	:;-	UG	:;-	
+LeGuin	:;-	A Wizard of Earthsea	:;-		:;-		:;-		:;-		:;-		:;-		:;-		:;-	

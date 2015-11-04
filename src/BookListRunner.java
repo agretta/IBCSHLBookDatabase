@@ -4,6 +4,8 @@ import java.io.FileNotFoundException;
 public class BookListRunner{
 	public static void main(String args[]){
 		
+		
+		/*
 		BookDatabase list = new BookDatabase();
 		list.addBook(new Book("Bob", "The Art Of Bob", "Action").setRL(2.0));
 		list.addBook(new Book("NotBob", "The Art Of Bob", "Action").setRL(9.0));
@@ -19,10 +21,7 @@ public class BookListRunner{
 		//list.addBook("Alec", "Fooey", "Action");
 
 		//list.addBook("Alec", "sjadhgowaejnbgoweang", "CS");
-
-		
-
-		
+		 * 
 		System.out.println(list.bookList());
 		System.out.println(list.bookListConstrainedTitle("The"));
 		
@@ -30,7 +29,12 @@ public class BookListRunner{
 		BookDatabase list2 = new BookDatabase();
 		list2.load("Trial.txt");
 		System.out.println(list.getAuthorBooksTitles("Alec", list.bookList()));
-
+		*/
+		
+		
+		
+		
+		
 		
 	}
 	

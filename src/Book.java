@@ -124,7 +124,7 @@ public class Book implements Comparable<Object>{
 
 	//getters
 	public String getAuthor(){
-		return myAuthor;
+		return myAuthor.replace("\t", "").replace( " ", "");
 	}
 	public String getTitle(){
 		return myTitle;
@@ -136,7 +136,7 @@ public class Book implements Comparable<Object>{
 		return mySeries;
 	}
 	public boolean inSeries(){
-		if(mySeries.equals(null))
+		if(mySeries.equals(""))
 			return false;
 		return true;
 	}
@@ -150,7 +150,7 @@ public class Book implements Comparable<Object>{
 		return AR;
 	}
 	public int getIL(){
-		return IL;
+		return IL;  	
 	}
 	public int getCopyright(){
 		return copyright;
@@ -188,6 +188,10 @@ public class Book implements Comparable<Object>{
 		else
 			return this.getAuthor().compareTo(((Book)book).getAuthor());
 
+	}
+	
+	public String toString(){
+		return getAuthor() +":"+ getTitle();
 	}
 	
 
